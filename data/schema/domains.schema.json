@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Disposable Email Infrastructure Domain",
+  "type": "object",
+  "required": [
+    "domain",
+    "provider_slugs",
+    "provider_labels",
+    "mx_hosts",
+    "mx_ipv4",
+    "mx_ipv6"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "domain": {
+      "type": "string"
+    },
+    "provider_slugs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "provider_labels": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mx_hosts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mx_ipv4": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mx_ipv6": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mx_resolved_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "first_seen_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "last_seen_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "last_enriched_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

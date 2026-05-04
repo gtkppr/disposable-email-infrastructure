@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-05-04T13:11:51.542Z",
+  "sources": [
+    {
+      "name": "email-disposable",
+      "type": "github_repository",
+      "repository": "https://github.com/gtkppr/email-disposable",
+      "domains_url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/disposable.json",
+      "package_url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/package.json",
+      "package_name": "email-disposable",
+      "package_version": "1.0.4"
+    },
+    {
+      "name": "Gatekeepr disposable MX enrichment",
+      "type": "derived_enrichment",
+      "description": "MX hostnames and resolved MX IP snapshots collected by Gatekeepr disposable-domain enrichment jobs."
+    }
+  ]
+}
