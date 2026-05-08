@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T08:18:16.509Z",
+  "generated_at": "2026-05-08T09:21:17.679Z",
   "source": {
     "name": "email-disposable",
     "version": "1.0.8",
@@ -16,8 +16,8 @@
     "mx_ipv6": 591
   },
   "mx_refresh": {
-    "attempted": 181681,
-    "succeeded": 54203,
+    "attempted": 181659,
+    "succeeded": 54181,
     "failed": 0,
     "skipped": 127478
   }
