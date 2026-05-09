@@ -1,0 +1,12 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+1nom-org-4855d089,mx_host,1nom.org,1nom.org,1,1,mail.1nom.org|postmaster.1nom.org,92.90.183.132,2a02:842a:2162:2a01:b0fd:b4cb:8db8:3f0f,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T00:10:56.968Z
+anawebs-com-8648bfdf,mx_host,anawebs.com,anawebs.com,1,1,mail.anawebs.com,168.144.12.142,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+angelry-com-b7ea7cee,mx_host,angelry.com,angelry.com,1,1,mail.angelry.com,135.181.76.188,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T00:17:06.318Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249|217.154.50.141|5.231.118.92,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T00:02:02.020Z
+bezill-com-a1f8ceb2,mx_host,bezill.com,bezill.com,1,1,mail.bezill.com,168.144.12.142,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+carloseletro-site-e0068b5c,mx_host,carloseletro.site,carloseletro.site,1,1,mail.carloseletro.site,69.6.213.154,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T02:32:21.075Z
+emailqu-com-eacc505e,mx_host,emailqu.com,emailqu.com,1,1,emailqu.com,151.240.0.64,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T01:23:40.170Z
+foodcia-com-e09b6092,mx_host,foodcia.com,foodcia.com,1,1,foodcia.com,172.96.191.40,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T04:41:11.148Z
+kenyayouth-org-cafd15c7,mx_host,kenyayouth.org,kenyayouth.org,1,1,kenyayouth.org,134.119.194.234,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T06:48:13.669Z
+online-pro-f47dbbe6,mx_host,online.pro,online.pro,1,1,hosting2643180.online.pro,46.242.232.95,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T11:29:27.129Z
+securemail-pro-c4df02da,mx_host,securemail.pro,securemail.pro,1,1,mail-fr.securemail.pro,81.88.48.101,,2026-05-04T13:11:51.542Z,2026-05-09T00:00:01.502Z,2026-05-05T02:21:07.717Z
