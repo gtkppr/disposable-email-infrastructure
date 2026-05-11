@@ -1,0 +1,9 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+kises.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+only4u.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+qirivviot.my.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+sahuryuk.my.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+site00.eu.org,email-fake-com-8f188ffb,email-fake.com,email-fake.com,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+spotify.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+tearflakes.eu.org,emailfake-com-12aa8573,emailfake.com,emailfake.com,91.196.52.205,,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,2026-05-09T18:00:08.704Z,
+zlaughter.me,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-09T03:17:30.189Z,2026-05-09T00:00:01.502Z,2026-05-09T00:00:01.502Z,2026-05-09T00:00:27.928Z
