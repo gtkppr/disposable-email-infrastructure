@@ -1,0 +1,5 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249|217.154.50.141|5.231.118.92,,2026-05-04T13:11:51.542Z,2026-05-12T00:00:01.822Z,2026-05-05T00:02:02.020Z
+e-mail-cafe-4b3f5e4b,mx_host,e-mail.cafe,e-mail.cafe,1,1,mail.e-mail.cafe,178.32.114.54,,2026-05-04T13:11:51.542Z,2026-05-12T00:00:01.822Z,2026-05-05T03:45:47.865Z
+mmaily-com-0b2a7316,mx_host,mmaily.com,mmaily.com,1,1,mmaily.com,109.106.251.142,,2026-05-04T13:11:51.542Z,2026-05-12T00:00:01.822Z,2026-05-12T00:00:24.816Z
+xinfi-com-pl-966bb571,mx_host,xinfi.com.pl,xinfi.com.pl,1,1,mail.xinfi.com.pl,51.83.223.64,2001:41d0:602:3b40::,2026-05-04T13:11:51.542Z,2026-05-12T00:00:01.822Z,2026-05-05T13:36:29.081Z
