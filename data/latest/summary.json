@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T11:00:02.141Z",
+  "generated_at": "2026-05-23T11:00:02.244Z",
   "source": {
     "name": "email-disposable",
     "version": "1.0.21",
@@ -8,17 +8,17 @@
   },
   "counts": {
     "domains": 209429,
-    "enriched_domains": 27302,
-    "providers": 4388,
-    "mx_hosts": 6219,
-    "mx_ips": 4015,
-    "mx_ipv4": 3418,
-    "mx_ipv6": 597
+    "enriched_domains": 27293,
+    "providers": 4380,
+    "mx_hosts": 6207,
+    "mx_ips": 4021,
+    "mx_ipv4": 3421,
+    "mx_ipv6": 600
   },
   "mx_refresh": {
-    "attempted": 182323,
-    "succeeded": 54600,
+    "attempted": 182152,
+    "succeeded": 54428,
     "failed": 0,
-    "skipped": 127723
+    "skipped": 127724
   }
 }
