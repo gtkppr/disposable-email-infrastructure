@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+lortemail-dk-cd8b366b,mx_host,lortemail.dk,lortemail.dk,2,2,localhost.lortemail.dk,,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T07:38:21.833Z
+crushdv-com-cffdd3c4,mx_host,crushdv.com,crushdv.com,1,1,mail.crushdv.com,51.81.0.42,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T03:01:21.086Z
+deepdreammail-com-a5248adc,mx_host,deepdreammail.com,deepdreammail.com,1,1,mail.deepdreammail.com,5.230.123.239,,2026-05-25T11:00:02.411Z,2026-05-25T11:00:02.411Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T03:28:45.507Z
+emailfowarding-com-d3207d57,mx_host,emailfowarding.com,emailfowarding.com,1,1,emailfowarding.com,159.223.228.240,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T04:04:38.691Z
+flyvisa-ir-13c20121,mx_host,flyvisa.ir,flyvisa.ir,1,1,mail.flyvisa.ir,217.144.105.207,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T04:44:58.249Z
+howh-site-d258dbe8,mx_host,howh.site,howh.site,1,1,howh.site,206.189.245.181,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T05:56:57.381Z
+kazinkana-com-7a56989f,mx_host,kazinkana.com,kazinkana.com,1,1,mail.kazinkana.com,91.231.86.6,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T06:54:27.999Z
+onceinbox-com-f8c5f1cc,mx_host,onceinbox.com,onceinbox.com,1,1,mail.onceinbox.com,97.64.81.152,,2026-05-04T13:11:51.542Z,2026-05-25T00:00:01.949Z,2026-05-21T09:24:34.995Z
