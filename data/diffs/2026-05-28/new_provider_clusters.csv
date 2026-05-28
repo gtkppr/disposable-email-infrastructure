@@ -1,0 +1,7 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+coreses-net-21cc7cfd,mx_host,coreses.net,coreses.net,2,2,mail.coreses.net,46.28.71.109,,2026-05-04T13:11:51.542Z,2026-05-28T00:00:01.997Z,2026-05-21T05:48:41.445Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-05-28T00:00:01.997Z,2026-05-21T00:01:52.313Z
+hostinger-vn-fbebdcb8,mx_host,hostinger.vn,hostinger.vn,1,1,mx1.hostinger.vn|mx2.hostinger.vn,172.65.182.103,2606:4700:90:0:c1f8:f874:2386:b61f,2026-05-04T13:11:51.542Z,2026-05-28T00:00:01.997Z,2026-05-21T06:01:33.573Z
+jisef333-xyz-b5a051fe,mx_host,jisef333.xyz,jisef333.xyz,1,1,mail.jisef333.xyz,,,2026-05-04T13:11:51.542Z,2026-05-28T00:00:01.997Z,2026-05-21T03:30:33.685Z
+prettymailhost-com-6b9b5a6a,mx_host,prettymailhost.com,prettymailhost.com,1,1,mail.prettymailhost.com,38.180.0.175,,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,
+vidssa-com-416e5386,mx_host,vidssa.com,vidssa.com,1,1,mail.vidssa.com,185.116.163.21,,2026-05-04T13:11:51.542Z,2026-05-28T00:00:01.997Z,2026-05-21T13:04:14.612Z
