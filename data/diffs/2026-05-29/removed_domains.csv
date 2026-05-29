@@ -1,0 +1,4 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+goodmail.my.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,
+mylooow.my.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,
+riadstoregpt.web.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,2026-05-28T11:00:02.046Z,
