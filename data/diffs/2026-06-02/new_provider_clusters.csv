@@ -1,0 +1,9 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+10min-email-91143882,mx_host,10min.email,10min.email,1,1,mail.10min.email,54.85.246.251,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:25.001Z
+1vpn-net-807a92ac,mx_host,1vpn.net,1vpn.net,1,1,mx.1vpn.net,46.183.27.153,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:24.816Z
+birmandesign-com-d53d95be,mx_host,birmandesign.com,birmandesign.com,1,1,mail.birmandesign.com,172.235.255.127,2600:3c0c::2000:12ff:feea:3619,2026-05-04T13:11:51.542Z,2026-06-02T00:00:02.094Z,2026-05-29T02:01:08.297Z
+jejes-de-144af72d,mx_host,jejes.de,jejes.de,1,1,mail.jejes.de,103.247.10.32,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:29.271Z
+kokomail-cc-b6891ec7,mx_host,kokomail.cc,kokomail.cc,1,1,mail.kokomail.cc,54.37.254.198,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:30.886Z
+mohemil-com-5b10b566,mx_host,mohemil.com,mohemil.com,1,1,mohemil.com,72.62.145.83,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:33.449Z
+riseist-com-47252f73,mx_host,riseist.com,riseist.com,1,1,fh7txy.riseist.com,77.36.4.3,,2026-05-04T13:11:51.542Z,2026-06-02T00:00:02.094Z,2026-05-29T10:53:02.378Z
+yesornowheel-fun-a9a2cad9,mx_host,yesornowheel.fun,yesornowheel.fun,1,1,mail.yesornowheel.fun,65.109.189.159,,2026-06-02T00:00:02.094Z,2026-06-02T00:00:02.094Z,2026-06-02T00:00:40.355Z
