@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+qingwu-site-2109b16f,mx_host,qingwu.site,qingwu.site,2,2,email.gravityengine.cc|mail.qingwu.site,158.101.127.66|74.48.141.241,,2026-06-06T00:00:01.585Z,2026-06-06T00:00:01.585Z,
+1maillt-store-a2e1bfac,mx_host,1maillt.store,1maillt.store,1,1,mail.1maillt.store,65.109.189.159,,2026-06-06T00:00:01.585Z,2026-06-06T00:00:01.585Z,
+cleanmail-sbs-94c116ce,mx_host,cleanmail.sbs,cleanmail.sbs,1,1,mail.cleanmail.sbs,46.224.80.26,,2026-05-04T13:11:51.542Z,2026-06-06T00:00:01.585Z,2026-05-29T08:00:57.651Z
+dynv6-net-9cee5e66,mx_host,dynv6.net,dynv6.net,1,9,email.chatgpt.org.uk|email.chatgpt.org.uk.0-mailer.dynv6.net|email.chatgpt.org.uk.2932919455.dynv6.net|email.chatgpt.org.uk.gthyjuytr.dynv6.net|email.chatgpt.org.uk.rnmut8pudgj0ikregqx6.dynv6.net|email.chatgpt.org.uk.temp-mail-free.dynv6.net|email.chatgpt.org.uk.temp-mailer.dynv6.net|email.gravityengine.cc.kkdty.dynv6.net|email.gravityengine.cc.ususus.dynv6.net|email.gravityengine.cc.vfre4w3.dynv6.net,158.101.127.66,,2026-06-06T00:00:01.585Z,2026-06-06T00:00:01.585Z,
+lnkero-com-af309dd2,mx_host,lnkero.com,lnkero.com,1,1,mail.lnkero.com,5.189.191.4,,2026-05-04T13:11:51.542Z,2026-06-06T00:00:01.585Z,2026-05-29T14:39:29.425Z
+stronyinternetowekrakow-pl-bb9d82ec,mx_host,stronyinternetowekrakow.pl,stronyinternetowekrakow.pl,1,1,mail.stronyinternetowekrakow.pl,194.181.228.135,,2026-05-04T13:11:51.542Z,2026-06-06T00:00:01.585Z,2026-05-29T11:58:05.985Z
+tempail-email-5749c457,mx_host,tempail.email,tempail.email,1,1,mail.tempail.email,162.55.238.165,,2026-06-06T11:00:01.546Z,2026-06-06T11:00:01.546Z,
