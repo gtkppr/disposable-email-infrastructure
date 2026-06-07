@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+likemail-com-97e0829f,mx_host,likemail.com,likemail.com,4,4,mail.likemail.com,67.225.128.18,,2026-06-07T00:00:02.087Z,2026-06-07T00:00:02.087Z,2026-06-07T00:01:26.303Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-06-07T00:00:02.087Z,2026-06-06T00:01:45.247Z
+daicyz-dev-a3f59bf5,mx_host,daicyz.dev,daicyz.dev,1,1,mail.daicyz.dev,43.156.242.218,,2026-06-05T11:00:02.450Z,2026-06-07T00:00:02.087Z,2026-06-06T10:43:25.662Z
+dtgun-com-a9ed219c,mx_host,dtgun.com,dtgun.com,1,1,mail.dtgun.com,212.231.224.143,,2026-06-07T00:00:02.087Z,2026-06-07T00:00:02.087Z,2026-06-07T00:00:59.412Z
+emailsendhub-com-243dd173,mx_host,emailsendhub.com,emailsendhub.com,1,1,mx1.emailsendhub.com,216.127.132.23|216.127.132.24,,2026-05-04T13:11:51.542Z,2026-06-07T00:00:02.087Z,2026-06-06T06:54:11.870Z
+justikl-ru-06eecc95,mx_host,justikl.ru,justikl.ru,1,1,mail.justikl.ru,5.230.123.239,,2026-06-07T11:00:01.991Z,2026-06-07T11:00:01.991Z,
+mdurl-cn-a3f84b46,mx_host,mdurl.cn,mdurl.cn,1,1,s.mdurl.cn,110.42.39.59,,2026-05-04T13:11:51.542Z,2026-06-07T00:00:02.087Z,2026-06-06T00:02:04.022Z
+seakuu-dev-026c730c,mx_host,seakuu.dev,seakuu.dev,1,1,generator.email|mail.seakuu.dev,31.57.224.82|91.196.52.205,,2026-06-07T11:00:01.991Z,2026-06-07T11:00:01.991Z,
+xeramail-com-75857159,mx_host,xeramail.com,xeramail.com,1,1,mail.xeramail.com,107.172.58.126,,2026-06-07T00:00:02.087Z,2026-06-07T00:00:02.087Z,2026-06-07T00:01:26.337Z
