@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+asteraavia-ru-3a20287b,mx_host,asteraavia.ru,asteraavia.ru,1,1,mail.asteraavia.ru,101.219.20.12,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T01:29:32.314Z
+conquistaomail-ru-116ce1d1,mx_host,conquistaomail.ru,conquistaomail.ru,1,1,mail.conquistaomail.ru,5.230.123.239,,2026-06-08T11:00:02.224Z,2026-06-08T11:00:02.224Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T03:26:24.739Z
+empiresro-com-7de4c4d2,mx_host,empiresro.com,empiresro.com,1,1,mx.empiresro.com,62.149.128.151|62.149.128.154|62.149.128.157|62.149.128.160|62.149.128.163|62.149.128.166|62.149.128.74,,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T04:04:48.436Z
+parhwest-com-7523f16e,mx_host,parhwest.com,parhwest.com,1,1,mail-smtpeccvpj.parhwest.com,138.197.239.249,,2026-06-08T00:00:01.452Z,2026-06-08T00:00:01.452Z,2026-06-08T00:00:31.750Z
+toyotataganka-ru-5312f1b0,mx_host,toyotataganka.ru,toyotataganka.ru,1,1,mail.toyotataganka.ru,42.19.20.11,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T12:22:33.490Z
+ufect-com-c023dc7c,mx_host,ufect.com,ufect.com,1,1,mail.ufect.com,91.194.250.188,,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T12:39:02.735Z
+uhi-com-54c055b3,mx_host,uhi.com,uhi.com,1,1,uhi.com,190.180.145.7,,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T12:40:15.854Z
+xoadiemailfake-com-e932dc45,mx_host,xoadiemailfake.com,xoadiemailfake.com,1,1,xoadiemailfake.com,,,2026-05-04T13:11:51.542Z,2026-06-08T00:00:01.452Z,2026-06-06T03:04:33.069Z
