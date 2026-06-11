@@ -1,0 +1,13 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+850bet1.net,,,,,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+88vintv.org,,,,,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+88win01.com,,,,,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+cintastore.my.id,,,generator.email|route1.mx.cloudflare.net|route2.mx.cloudflare.net|route3.mx.cloudflare.net,162.159.205.11|162.159.205.12|162.159.205.13|162.159.205.17|162.159.205.18|162.159.205.19|162.159.205.23|162.159.205.24|162.159.205.25|91.196.52.205,2606:4700:f5::10|2606:4700:f5::11|2606:4700:f5::12|2606:4700:f5::13|2606:4700:f5::b|2606:4700:f5::c|2606:4700:f5::d|2606:4700:f5::e|2606:4700:f5::f,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+flews.app,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+gerv.app,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+gpt-mail-free-5659.dynv6.net,chatgpt-org-uk-1f2f6de7,chatgpt.org.uk,email.chatgpt.org.uk,158.101.127.66,,2026-06-11T03:07:11.817Z,2026-06-11T00:00:01.906Z,2026-06-11T00:00:01.906Z,2026-06-11T00:01:58.102Z
+mailk.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-11T03:10:39.699Z,2026-06-11T00:00:01.906Z,2026-06-11T00:00:01.906Z,2026-06-11T00:01:59.933Z
+moyang303.de5.net,chatgpt-org-uk-1f2f6de7,chatgpt.org.uk,email.chatgpt.org.uk,158.101.127.66,,2026-06-11T03:11:23.019Z,2026-06-11T00:00:01.906Z,2026-06-11T00:00:01.906Z,2026-06-11T00:02:02.323Z
+tuandinhh.tokyo,,,,,,,,,
+wareng.web.id,generator-email-27002afd|web-id-2975d9e7,generator.email|web.id,generator.email|mail.wareng.web.id,8.215.18.96|91.196.52.205,,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
+yandxe.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,2026-06-11T11:00:01.973Z,
