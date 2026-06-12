@@ -1,0 +1,16 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T00:01:45.247Z
+dyleris-com-382c61d4,mx_host,dyleris.com,dyleris.com,1,1,mail.dyleris.com,138.197.226.136,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+emailsendhub-com-243dd173,mx_host,emailsendhub.com,emailsendhub.com,1,1,mx1.emailsendhub.com,216.127.132.23|216.127.132.24,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T06:54:11.870Z
+ilavana-com-cb5be4d6,mx_host,ilavana.com,ilavana.com,1,1,mx.ilavana.com,,2001:41d0:700:19b7:8584:7a8b:73e7:3ae1,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T06:03:51.771Z
+inetworksgroup-com-88d5fd3d,mx_host,inetworksgroup.com,inetworksgroup.com,1,1,mail.inetworksgroup.com,103.18.6.92,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T06:07:49.600Z
+kycnot-cc-38b93e52,mx_host,kycnot.cc,kycnot.cc,1,1,mail.kycnot.cc,168.231.76.95,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+lidugw-com-0f77ffc8,mx_host,lidugw.com,lidugw.com,1,1,mail.lidugw.com,138.197.226.136,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+mail-send-ru-9c73fe42,mx_host,mail-send.ru,mail-send.ru,1,1,mx.mail-send.ru,91.84.104.33,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T07:43:13.546Z
+mallecom-online-9273b6ff,mx_host,mallecom.online,mallecom.online,1,1,mallecom.online,31.131.26.121,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+mdvx-cn-b84f2395,mx_host,mdvx.cn,mdvx.cn,1,1,mail.mdvx.cn,125.122.28.194,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T08:07:11.576Z
+microanalyx-com-a36e331f,mx_host,microanalyx.com,microanalyx.com,1,1,mail.microanalyx.com,5.230.123.239,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+radbandz-com-0d84312b,mx_host,radbandz.com,radbandz.com,1,1,radbandz.com,103.138.189.74,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T10:20:36.464Z
+tommyuzzo-com-99dbc044,mx_host,tommyuzzo.com,tommyuzzo.com,1,1,mx.tommyuzzo.com,,,2026-05-04T13:11:51.542Z,2026-06-12T00:00:01.690Z,2026-06-06T12:18:29.263Z
+veospot-com-4a6a0ef5,mx_host,veospot.com,veospot.com,1,1,mail.veospot.com,138.197.226.136,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
+wananchi-com-e9b12133,mx_host,wananchi.com,wananchi.com,1,1,mta1.zos.wananchi.com|proxy.zos.wananchi.com,62.8.88.160|62.8.88.165,,2026-06-12T11:00:01.523Z,2026-06-12T11:00:01.523Z,
