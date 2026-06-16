@@ -1,0 +1,4 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+mao.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-15T03:11:07.253Z,2026-06-04T00:00:01.971Z,2026-06-15T00:00:02.071Z,2026-06-12T00:00:52.225Z
+yayandex.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-15T03:18:42.032Z,2026-06-04T00:00:01.971Z,2026-06-15T00:00:02.071Z,2026-06-12T00:01:13.452Z
+yeandex.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-15T03:18:42.574Z,2026-06-04T00:00:01.971Z,2026-06-15T00:00:02.071Z,2026-06-12T00:01:13.496Z

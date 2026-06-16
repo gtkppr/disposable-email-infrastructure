@@ -1,0 +1,5 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+blogranks.top,blogranks-top-e925b976,blogranks.top,blogranks.top,45.136.19.174,,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,
+fbins001mail.com,emailfake-com-12aa8573|mailgun-org-84f0dca4,emailfake.com|mailgun.org,emailfake.com|mxa.mailgun.org|mxb.mailgun.org,34.149.254.5|34.36.182.139|91.196.52.205,,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,
+nbox.ru,,,,,,,,,
+wiuz.auliot.my.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,2026-06-16T11:00:01.498Z,
