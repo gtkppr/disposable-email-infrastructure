@@ -1,0 +1,15 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+20d-uk-74153221,mx_host,20d.uk,20d.uk,1,1,mx01.20d.uk|mx02.20d.uk|mx03.20d.uk,162.244.94.10|23.172.136.2|23.172.139.3,2602:faa9:e1:6e6f:7370:616d:0:2|2602:faa9:e2:6e6f:7370:616d:0:2|2602:faa9:e3:6e6f:7370:616d:0:2,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T03:14:37.035Z
+aktifbil-com-dac1d114,mx_host,aktifbil.com,aktifbil.com,1,1,mail.aktifbil.com,194.146.36.48,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T01:13:02.897Z
+characterpt-ru-bd7ec18a,mx_host,characterpt.ru,characterpt.ru,1,1,mail.characterpt.ru,5.230.123.239,,2026-06-17T11:00:02.136Z,2026-06-17T11:00:02.136Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T03:58:35.581Z
+emailsendhub-com-243dd173,mx_host,emailsendhub.com,emailsendhub.com,1,1,mx1.emailsendhub.com,216.127.132.23|216.127.132.24,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T12:23:10.438Z
+for4u-net-2898814e,mx_host,for4u.net,for4u.net,1,1,mx.for4u.net,46.62.148.222,,2026-06-17T00:00:01.674Z,2026-06-17T00:00:01.674Z,2026-06-17T00:01:44.883Z
+helperv-com-3f59e36f,mx_host,helperv.com,helperv.com,1,1,helperv.com,194.163.135.10,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T06:37:39.477Z
+helperv-net-950c362d,mx_host,helperv.net,helperv.net,1,1,helperv.net,194.163.135.10,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T06:37:39.974Z
+pro-vn-158d9da6,mx_host,pro.vn,pro.vn,1,1,nexorabio.pro.vn|tinyhost.shop,144.91.107.45,,2026-06-17T00:00:01.674Z,2026-06-17T00:00:01.674Z,2026-06-17T00:02:45.022Z
+qacmjeq-com-4fbac001,mx_host,qacmjeq.com,qacmjeq.com,1,1,qacmjeq.com,54.36.214.180,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T11:33:14.960Z
+r-66y-com-5066a019,mx_host,r-66y.com,r-66y.com,1,1,misaka.r-66y.com,192.3.63.66,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T08:52:44.904Z
+sgm-ovh-edb9a095,mx_host,sgm.ovh,sgm.ovh,1,1,mail.sgm.ovh,,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T12:40:37.420Z
+vadalist-com-7680897e,mx_host,vadalist.com,vadalist.com,1,1,mail.vadalist.com,104.239.102.90,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T14:39:25.234Z
+wyoxafp-com-af3cc857,mx_host,wyoxafp.com,wyoxafp.com,1,1,wyoxafp.com,54.36.214.180,,2026-05-04T13:11:51.542Z,2026-06-17T00:00:01.674Z,2026-06-14T15:26:35.426Z
