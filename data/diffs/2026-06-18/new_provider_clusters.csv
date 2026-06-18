@@ -1,0 +1,6 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+antispams-com-96b3ba71,mx_host,antispams.com,antispams.com,1,1,mx.antispams.com,51.38.122.115,,2026-05-04T13:11:51.542Z,2026-06-18T00:00:02.311Z,2026-06-14T12:38:36.314Z
+ichecker-tech-10be2894,mx_host,ichecker.tech,ichecker.tech,1,1,emailfake.com|ichecker.tech,187.77.137.111|91.196.52.205,2a02:4780:5e:e7c7::1,2026-06-18T00:00:02.311Z,2026-06-18T00:00:02.311Z,2026-06-18T00:02:03.544Z
+mail-kuyang-918a8f71,mx_host,mail.kuyang,mail.kuyang,1,1,mail.kuyang|mx.kuyang.id,47.236.52.217,,2026-06-18T00:00:02.311Z,2026-06-18T00:00:02.311Z,2026-06-18T00:01:55.440Z
+padyou-com-babf34d2,mx_host,padyou.com,padyou.com,1,1,mail.padyou.com,178.128.134.117,,2026-05-04T13:11:51.542Z,2026-06-18T00:00:02.311Z,2026-06-14T10:51:57.393Z
+priyo-email-89a0356c,mx_host,priyo.email,priyo.email,1,1,mail.priyo.email,162.55.238.147,,2026-05-04T13:11:51.542Z,2026-06-18T00:00:02.311Z,2026-06-14T11:22:32.801Z
