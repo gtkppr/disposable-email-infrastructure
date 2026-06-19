@@ -1,0 +1,13 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+1982-cc-09f65ea9,mx_host,1982.cc,1982.cc,1,1,mail.1982.cc,212.72.184.2,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T03:51:08.193Z
+amilsocks-com-a6e7caac,mx_host,amilsocks.com,amilsocks.com,1,1,amilsocks.com,91.204.209.2,,2026-06-19T11:00:01.807Z,2026-06-19T11:00:01.807Z,
+asteraavia-ru-3a20287b,mx_host,asteraavia.ru,asteraavia.ru,1,1,mail.asteraavia.ru,102.19.210.12,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T01:36:52.611Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T00:01:54.900Z
+bunlets-com-1c64fd08,mx_host,bunlets.com,bunlets.com,1,1,mail.bunlets.com,43.155.141.115,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T02:32:53.646Z
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,151.248.114.50,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T03:58:35.581Z
+fivueriti-com-047901db,mx_host,fivueriti.com,fivueriti.com,1,1,inbound.fivueriti.com,138.197.239.249,,2026-06-19T11:00:01.807Z,2026-06-19T11:00:01.807Z,
+mailnorms-com-ec5bc552,mx_host,mailnorms.com,mailnorms.com,1,1,mail.mailnorms.com,157.22.206.143,,2026-06-19T11:00:01.807Z,2026-06-19T11:00:01.807Z,
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T09:41:51.776Z
+odns-fr-f753116c,mx_host,odns.fr,odns.fr,1,1,ermi4747.odns.fr,109.234.164.216,,2026-06-19T11:00:01.807Z,2026-06-19T11:00:01.807Z,
+pochtac-ru-9da0e9b7,mx_host,pochtac.ru,pochtac.ru,1,1,mail.pochtac.ru,88.212.206.189,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T11:12:29.870Z
+webhostbd-com-f3cae44e,mx_host,webhostbd.com,webhostbd.com,1,1,alt1.mymailcheap.com|alt2.mymailcheap.com|emailhosting.webhostbd.com,158.69.83.225|51.79.141.16|51.83.107.245,,2026-05-04T13:11:51.542Z,2026-06-19T00:00:01.675Z,2026-06-14T00:46:30.161Z
