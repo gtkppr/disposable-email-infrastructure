@@ -1,0 +1,7 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+7mail.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-06-19T03:00:54.210Z,2026-06-04T00:00:01.971Z,2026-06-19T00:00:01.675Z,2026-06-12T00:00:28.235Z
+eylemsavunma.com.tr,guzel-net-tr-b43519ca,guzel.net.tr,ni-spamexperts.guzel.net.tr|rd-spamexperts.guzel.net.tr,104.247.160.49|185.106.211.36,,2026-06-19T03:05:53.891Z,2026-06-04T00:00:01.971Z,2026-06-19T00:00:01.675Z,2026-06-12T00:00:37.587Z
+fayatpartievi.com,guzel-net-tr-b43519ca,guzel.net.tr,mt-spamexperts.guzel.net.tr|ni-spamexperts.guzel.net.tr,104.247.160.49|185.106.211.36,,2026-06-19T03:06:03.266Z,2026-06-04T00:00:01.971Z,2026-06-19T00:00:01.675Z,2026-06-12T00:00:37.623Z
+fomak.com.tr,guzel-net-tr-b43519ca,guzel.net.tr,rd-spamexperts.guzel.net.tr,104.247.160.49,,2026-06-19T03:06:23.446Z,2026-06-04T00:00:01.971Z,2026-06-19T00:00:01.675Z,2026-06-12T00:00:37.942Z
+piksan.com,guzel-net-tr-b43519ca,guzel.net.tr,mt-spamexperts.guzel.net.tr|ni-spamexperts.guzel.net.tr|pmg.guzel.net.tr|pmg2.guzel.net.tr,104.247.160.45|104.247.160.49|104.247.160.55|104.247.160.65|185.106.211.36|31.192.212.44,2a06:41c0::35|2a06:41c0:1::3|2a06:41c0:1::4|2a06:41c0:1::6,2026-06-19T03:12:43.441Z,2026-06-04T00:00:01.971Z,2026-06-19T00:00:01.675Z,2026-06-12T00:01:03.266Z
+tranhunggg.tokyo,,,,,,,,,
