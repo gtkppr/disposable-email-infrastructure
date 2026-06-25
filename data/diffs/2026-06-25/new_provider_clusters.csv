@@ -1,0 +1,14 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+adsprite-com-d010b1f8,mx_host,adsprite.com,adsprite.com,1,1,mail.adsprite.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-06-25T00:00:02.338Z,2026-06-22T00:01:43.957Z
+cryptocustomercare-us-976c80b9,mx_host,cryptocustomercare.us,cryptocustomercare.us,1,1,mail.cryptocustomercare.us,217.77.0.30,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+disiok-com-76d53599,mx_host,disiok.com,disiok.com,1,1,mail.disiok.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+diurstb-com-f7406cc3,mx_host,diurstb.com,diurstb.com,1,1,rte01.diurstb.com,192.241.197.97,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+divahd-com-b876b3e8,mx_host,divahd.com,divahd.com,1,1,mail.divahd.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+emailsensei-com-4a8932b1,mx_host,emailsensei.com,emailsensei.com,1,1,emailsensei.com,104.207.132.73,,2026-05-04T13:11:51.542Z,2026-06-25T00:00:02.338Z,2026-06-22T04:47:49.074Z
+fishnone-com-5a9df23d,mx_host,fishnone.com,fishnone.com,1,1,mail.fishnone.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+jctoto-com-3a00b8f3,mx_host,jctoto.com,jctoto.com,1,1,mail.jctoto.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+luxudata-com-359654ff,mx_host,luxudata.com,luxudata.com,1,1,mail.luxudata.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+noproposal-com-a075bd8e,mx_host,noproposal.com,noproposal.com,1,1,mail.noproposal.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
+senvas-me-0f23264e,mx_host,senvas.me,senvas.me,1,1,emailfake.com|mail.senvas.me,104.207.64.75|91.196.52.205,,2026-06-25T00:00:02.338Z,2026-06-25T00:00:02.338Z,2026-06-25T00:05:32.386Z
+soliset-com-d4972018,mx_host,soliset.com,soliset.com,1,1,mail.soliset.com,178.128.134.117,,2026-06-25T11:00:01.898Z,2026-06-25T11:00:01.898Z,
