@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+dustmail-net-f7466e3a,mx_host,dustmail.net,dustmail.net,1,1,mail.dustmail.net,152.53.133.40,,2026-06-28T11:00:02.173Z,2026-06-28T11:00:02.173Z,
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,151.248.114.50,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-28T00:00:02.223Z,2026-06-22T09:48:14.257Z
+olkusz-pl-61191fdc,mx_host,olkusz.pl,olkusz.pl,1,1,mail.ecudeju.olkusz.pl,46.62.234.90,,2026-05-04T13:11:51.542Z,2026-06-28T00:00:02.223Z,2026-06-22T04:35:04.846Z
+premsy-net-90410a7a,mx_host,premsy.net,premsy.net,1,1,mail.premsy.net,165.22.106.47,,2026-06-26T11:00:01.544Z,2026-06-28T00:00:02.223Z,2026-06-27T00:02:10.793Z
+sermailtos-com-839c48df,mx_host,sermailtos.com,sermailtos.com,1,1,mail.sermailtos.com,94.103.178.138,,2026-06-28T11:00:02.173Z,2026-06-28T11:00:02.173Z,
+snpmail-fun-4715f058,mx_host,snpmail.fun,snpmail.fun,1,1,mail.snpmail.fun,151.247.22.176,,2026-05-29T11:00:02.182Z,2026-06-28T00:00:02.223Z,2026-06-23T00:00:27.374Z
+sr-cx-eb2216bc,mx_host,sr.cx,sr.cx,1,1,mail.sr.cx,125.122.28.194,,2026-05-04T13:11:51.542Z,2026-06-28T00:00:02.223Z,2026-06-22T13:10:28.023Z
+url7-cc-506707ee,mx_host,url7.cc,url7.cc,1,1,mail.url7.cc,125.122.28.194,,2026-05-04T13:11:51.542Z,2026-06-28T00:00:02.223Z,2026-06-22T14:37:04.274Z
+via902-com-b863e1f6,mx_host,via902.com,via902.com,1,1,mail.via902.com,210.211.101.73,,2026-05-04T13:11:51.542Z,2026-06-28T00:00:02.223Z,2026-06-22T14:52:14.589Z
