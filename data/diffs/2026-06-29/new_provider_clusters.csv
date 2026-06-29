@@ -1,0 +1,11 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+asteraavia-ru-3a20287b,mx_host,asteraavia.ru,asteraavia.ru,1,1,mail.asteraavia.ru,151.248.114.50,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T01:47:48.888Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T00:01:43.957Z
+bcarriedxl-com-66984764,mx_host,bcarriedxl.com,bcarriedxl.com,1,1,mail.bcarriedxl.com,151.106.113.227,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T02:10:39.355Z
+cash128-com-12b68e02,mx_host,cash128.com,cash128.com,1,1,cash128.com,195.114.193.29,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T03:00:42.341Z
+dropoffs-org-4c846694,mx_host,dropoffs.org,dropoffs.org,1,1,mail.dropoffs.org,144.217.32.37,,2026-06-29T11:00:02.097Z,2026-06-29T11:00:02.097Z,
+dzenvpn-com-5108df15,mx_host,dzenvpn.com,dzenvpn.com,1,1,mail.dzenvpn.com,81.163.253.12,,2026-06-29T11:00:02.097Z,2026-06-29T11:00:02.097Z,
+gmial-com-80c026d2,mx_host,gmial.com,gmial.com,1,1,mail.gmial.com,163.245.214.78,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T05:58:56.944Z
+skatingion-com-2c317f59,mx_host,skatingion.com,skatingion.com,1,1,m.skatingion.com,162.243.149.116,,2026-06-29T11:00:02.097Z,2026-06-29T11:00:02.097Z,
+vteachesb-com-3f5744f1,mx_host,vteachesb.com,vteachesb.com,1,1,mail.vteachesb.com,151.106.113.227,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T15:08:15.777Z
+zzloi-com-57e98a08,mx_host,zzloi.com,zzloi.com,1,1,mail.zzloi.com,188.245.45.79,,2026-05-04T13:11:51.542Z,2026-06-29T00:00:02.038Z,2026-06-22T16:27:02.117Z
