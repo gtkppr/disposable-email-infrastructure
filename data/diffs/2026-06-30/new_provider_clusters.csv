@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+2026-cam-d603216e,mx_host,2026.cam,2026.cam,1,1,mail.2026.cam,158.220.91.101,,2026-05-04T13:11:51.542Z,2026-06-30T00:00:02.154Z,2026-06-22T00:12:57.848Z
+antispams-com-96b3ba71,mx_host,antispams.com,antispams.com,1,1,mx.antispams.com,51.38.122.115,,2026-05-04T13:11:51.542Z,2026-06-30T00:00:02.154Z,2026-06-22T12:40:41.052Z
+cholegast-com-f5fb0cdc,mx_host,cholegast.com,cholegast.com,1,1,mail.cholegast.com,5.230.123.239,,2026-06-30T11:00:01.518Z,2026-06-30T11:00:01.518Z,
+firwurd-com-1764f39c,mx_host,firwurd.com,firwurd.com,1,1,msn.firwurd.com,192.241.233.95,,2026-06-30T11:00:01.518Z,2026-06-30T11:00:01.518Z,
+jawatimur-net-ce1e843d,mx_host,jawatimur.net,jawatimur.net,1,1,mx.jawatimur.net,46.183.27.153,,2026-06-30T11:00:01.518Z,2026-06-30T11:00:01.518Z,
+marketmail-xyz-dad0e5b3,mx_host,marketmail.xyz,marketmail.xyz,1,1,mail.marketmail.xyz,188.68.242.190,,2026-06-30T11:00:01.518Z,2026-06-30T11:00:01.518Z,
+zyyberrys-com-9922f5f7,mx_host,zyyberrys.com,zyyberrys.com,1,1,mx.zyyberrys.com,62.149.128.151|62.149.128.154|62.149.128.157|62.149.128.160|62.149.128.163|62.149.128.166|62.149.128.74,,2026-05-04T13:11:51.542Z,2026-06-30T00:00:02.154Z,2026-06-22T16:26:39.643Z
