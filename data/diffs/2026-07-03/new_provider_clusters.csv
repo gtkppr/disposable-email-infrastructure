@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+dbwot-com-0b32d393,mx_host,dbwot.com,dbwot.com,1,1,mx.dbwot.com,143.110.211.229,,2026-07-03T00:00:01.584Z,2026-07-03T00:00:01.584Z,2026-07-03T00:05:10.029Z
+facaime-cn-fdd626dd,mx_host,facaime.cn,facaime.cn,1,1,mx1.facaime.cn,128.14.74.107|128.14.74.124,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T04:52:24.167Z
+gmial-com-80c026d2,mx_host,gmial.com,gmial.com,1,1,mail.gmial.com,163.245.214.78,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T05:48:31.803Z
+numllery-com-3af22bc6,mx_host,numllery.com,numllery.com,1,1,mx-mail4.numllery.com,,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T10:15:23.166Z
+potaance-com-484eb67a,mx_host,potaance.com,potaance.com,1,1,east-mailmqkxyvj.potaance.com,,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T11:09:39.952Z
+suchance-com-ebf485cc,mx_host,suchance.com,suchance.com,1,1,mx.suchance.com,,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T13:14:58.741Z
+zeronerbacomail-com-8cac972e,mx_host,zeronerbacomail.com,zeronerbacomail.com,1,1,mail.zeronerbacomail.com|maildextpcctlxubqecnk.zeronerbacomail.com,159.195.37.180|80.66.81.232,,2026-05-04T13:11:51.542Z,2026-07-03T00:00:01.584Z,2026-06-30T16:02:07.841Z
