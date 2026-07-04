@@ -1,0 +1,16 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249|217.154.50.141,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T00:01:48.941Z
+bangkabelitung-net-0165e915,mx_host,bangkabelitung.net,bangkabelitung.net,1,1,mx.bangkabelitung.net,,,2026-06-10T11:00:01.566Z,2026-07-04T00:00:01.605Z,2026-06-27T00:01:52.282Z
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,151.248.114.50,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T03:53:23.977Z
+doefy-com-b38dcf61,mx_host,doefy.com,doefy.com,1,1,mail.doefy.com,178.128.132.22,,2026-07-04T00:00:01.605Z,2026-07-04T00:00:01.605Z,2026-07-04T00:02:05.238Z
+donations-com-202b0ed5,mx_host,donations.com,donations.com,1,1,donations.com,147.93.178.163,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T04:02:15.673Z
+jawatengah-net-f418d341,mx_host,jawatengah.net,jawatengah.net,1,1,mx.jawatengah.net,,,2026-06-10T11:00:01.566Z,2026-07-04T00:00:01.605Z,2026-06-27T00:01:53.296Z
+jawatimur-net-ce1e843d,mx_host,jawatimur.net,jawatimur.net,1,1,mx.jawatimur.net,,,2026-06-30T11:00:01.518Z,2026-07-04T00:00:01.605Z,2026-07-01T00:01:25.886Z
+kalimantantimur-net-19cc0a94,mx_host,kalimantantimur.net,kalimantantimur.net,1,1,mx.kalimantantimur.net,,,2026-06-27T00:00:02.485Z,2026-07-04T00:00:01.605Z,2026-06-27T00:02:46.383Z
+kurumsaleposta-com-8d1d218e,mx_host,kurumsaleposta.com,kurumsaleposta.com,1,1,mx-01.kurumsaleposta.com|mx-02.kurumsaleposta.com,94.73.187.201|94.73.187.202,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T12:32:54.252Z
+prolifepowerup-com-ec379f5b,mx_host,prolifepowerup.com,prolifepowerup.com,1,1,mx.prolifepowerup.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T11:17:32.962Z
+selonya-com-b1fbfa42,mx_host,selonya.com,selonya.com,1,1,mail.selonya.com,161.97.149.204,,2026-07-04T11:00:01.718Z,2026-07-04T11:00:01.718Z,
+shiptudo-com-136dea3e,mx_host,shiptudo.com,shiptudo.com,1,1,mail.shiptudo.com,123.30.187.59,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T12:38:48.289Z
+speedboosts-life-ff3732e7,mx_host,speedboosts.life,speedboosts.life,1,1,mail.speedboosts.life,92.4.81.81,,2026-05-04T13:11:51.542Z,2026-07-04T00:00:01.605Z,2026-06-30T13:02:01.168Z
+sumaterabarat-net-c5c916ff,mx_host,sumaterabarat.net,sumaterabarat.net,1,1,mx.sumaterabarat.net,,,2026-06-27T00:00:02.485Z,2026-07-04T00:00:01.605Z,2026-06-27T00:03:16.308Z
+sumaterautara-net-76fb62ec,mx_host,sumaterautara.net,sumaterautara.net,1,1,mx.sumaterautara.net,,,2026-06-27T00:00:02.485Z,2026-07-04T00:00:01.605Z,2026-06-27T00:03:16.663Z
