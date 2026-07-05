@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+citymail-online-b028f422,mx_host,citymail.online,citymail.online,1,1,mail.citymail.online,144.91.109.236,,2026-05-04T13:11:51.542Z,2026-07-05T00:00:01.900Z,2026-06-30T03:05:31.975Z
+gmial-com-80c026d2,mx_host,gmial.com,gmial.com,1,1,mail.gmial.com,163.245.214.78,,2026-05-04T13:11:51.542Z,2026-07-05T00:00:01.900Z,2026-06-30T05:48:31.803Z
+komputer-pro-59716321,mx_host,komputer.pro,komputer.pro,1,1,mailhost.komputer.pro,217.154.251.120,2a01:239:331:2500::,2026-05-04T13:11:51.542Z,2026-07-05T00:00:01.900Z,2026-06-30T10:23:34.073Z
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-07-05T00:00:01.900Z,2026-06-30T09:29:07.154Z
+shopeeboost-com-cc744f6e,mx_host,shopeeboost.com,shopeeboost.com,1,1,shopeeboost.com,43.133.153.235,,2026-05-04T13:11:51.542Z,2026-07-05T00:00:01.900Z,2026-06-30T12:40:07.429Z
+stapedifmail-ru-1a872c98,mx_host,stapedifmail.ru,stapedifmail.ru,1,1,mail.stapedifmail.ru,5.230.123.239,,2026-07-05T11:00:01.537Z,2026-07-05T11:00:01.537Z,
+unjustimyu-ru-c8b9bb43,mx_host,unjustimyu.ru,unjustimyu.ru,1,1,mail.unjustimyu.ru,5.230.123.239,,2026-07-05T11:00:01.537Z,2026-07-05T11:00:01.537Z,
