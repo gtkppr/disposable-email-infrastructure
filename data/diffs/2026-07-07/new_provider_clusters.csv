@@ -1,0 +1,11 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+billieholidayly-click-4b3787a9,mx_host,billieholidayly.click,billieholidayly.click,1,1,mail.cc.billieholidayly.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+birminghamfans-com-dce82026,mx_host,birminghamfans.com,birminghamfans.com,1,1,birminghamfans.com,198.20.116.165,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T02:14:11.006Z
+fizmail-com-e6bd3716,mx_host,fizmail.com,fizmail.com,1,1,fizmail.com,38.58.178.85,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T05:08:32.752Z
+gmail-box-com-92087fb3,mx_host,gmail-box.com,gmail-box.com,1,1,gmail-box.com,,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T05:46:49.244Z
+grabdealstoday-info-1e29485c,mx_host,grabdealstoday.info,grabdealstoday.info,1,1,grabdealstoday.info,64.64.124.91,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T05:56:19.392Z
+imxwe-com-6d54f555,mx_host,imxwe.com,imxwe.com,1,1,mx.imxwe.com,143.110.211.229,,2026-07-07T00:00:02.145Z,2026-07-07T00:00:02.145Z,2026-07-07T00:26:00.580Z
+techiewall-com-b116435a,mx_host,techiewall.com,techiewall.com,1,1,techiewall.com,65.108.140.104,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T13:32:22.031Z
+travellersrestlabs-click-c48ee6eb,mx_host,travellersrestlabs.click,travellersrestlabs.click,1,1,mail.qna.travellersrestlabs.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+travodoctor-ru-90384f2b,mx_host,travodoctor.ru,travodoctor.ru,1,1,mail.travodoctor.ru,92.63.107.93,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T14:06:50.572Z
+yodaat-com-53dc57b0,mx_host,yodaat.com,yodaat.com,1,1,mail.yodaat.com,108.179.200.174,,2026-05-04T13:11:51.542Z,2026-07-07T00:00:02.145Z,2026-06-30T15:50:00.105Z

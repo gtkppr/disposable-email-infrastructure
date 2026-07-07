@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-06T11:00:02.222Z",
+  "generated_at": "2026-07-07T11:00:01.587Z",
   "source": {
     "name": "email-disposable",
-    "version": "1.0.65",
+    "version": "1.0.66",
     "url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/disposable.json",
     "package_url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/package.json"
   },
   "counts": {
-    "domains": 217695,
-    "enriched_domains": 34074,
-    "providers": 4952,
-    "mx_hosts": 7251,
-    "mx_ips": 4157,
-    "mx_ipv4": 3543,
-    "mx_ipv6": 614
+    "domains": 217703,
+    "enriched_domains": 34065,
+    "providers": 4948,
+    "mx_hosts": 7245,
+    "mx_ips": 4138,
+    "mx_ipv4": 3527,
+    "mx_ipv6": 611
   },
   "mx_refresh": {
-    "attempted": 183665,
-    "succeeded": 55690,
+    "attempted": 183684,
+    "succeeded": 55697,
     "failed": 0,
-    "skipped": 127975
+    "skipped": 127987
   }
 }

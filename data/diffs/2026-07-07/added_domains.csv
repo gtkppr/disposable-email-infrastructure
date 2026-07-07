@@ -1,0 +1,10 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+020307.xyz,,,route1.mx.cloudflare.net|route2.mx.cloudflare.net|route3.mx.cloudflare.net,162.159.205.11|162.159.205.12|162.159.205.13|162.159.205.17|162.159.205.18|162.159.205.19|162.159.205.23|162.159.205.24|162.159.205.25,2606:4700:f5::10|2606:4700:f5::11|2606:4700:f5::12|2606:4700:f5::13|2606:4700:f5::b|2606:4700:f5::c|2606:4700:f5::d|2606:4700:f5::e|2606:4700:f5::f,2026-07-07T03:00:02.557Z,2026-07-07T00:00:02.145Z,2026-07-07T00:00:02.145Z,2026-07-07T00:25:59.897Z
+263.net,,,,,,,,,
+bhana.xyz,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+cc.billieholidayly.click,billieholidayly-click-4b3787a9,billieholidayly.click,mail.cc.billieholidayly.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+cratecloak.com,sparkblink-org-cfc499ef,sparkblink.org,sparkblink.org,80.78.31.45,,2026-07-07T03:04:34.765Z,2026-07-07T00:00:02.145Z,2026-07-07T00:00:02.145Z,2026-07-07T00:26:00.246Z
+imxwe.com,imxwe-com-6d54f555,imxwe.com,mx.imxwe.com,143.110.211.229,,2026-07-07T03:08:47.500Z,2026-07-07T00:00:02.145Z,2026-07-07T00:00:02.145Z,2026-07-07T00:26:00.580Z
+promotionaldomains.com,emailowl-com-1b358d79,emailowl.com,mx1.emailowl.com|mx2.emailowl.com|mx3.emailowl.com,107.170.208.118|107.191.41.169|188.226.221.25,,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+qna.travellersrestlabs.click,travellersrestlabs-click-c48ee6eb,travellersrestlabs.click,mail.qna.travellersrestlabs.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,2026-07-07T11:00:01.587Z,
+saa.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-07-07T03:15:12.251Z,2026-07-07T00:00:02.145Z,2026-07-07T00:00:02.145Z,2026-07-07T00:26:01.606Z
