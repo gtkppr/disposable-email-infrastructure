@@ -1,0 +1,11 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+chongsoft-com-58e29eac,mx_host,chongsoft.com,chongsoft.com,1,1,mail.chongsoft.com,80.251.218.207,,2026-05-04T13:11:51.542Z,2026-07-11T00:00:01.746Z,2026-07-08T02:56:04.336Z
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,,2026-05-04T13:11:51.542Z,2026-07-11T00:00:01.746Z,2026-07-08T03:44:25.526Z
+ephemmail-com-15ae71b4,mx_host,ephemmail.com,ephemmail.com,1,1,mail.ephemmail.com,5.230.123.239,,2026-07-11T11:00:01.442Z,2026-07-11T11:00:01.442Z,
+redlist-ch-5168e4dd,mx_host,redlist.ch,redlist.ch,1,1,mail.redlist.ch,64.20.61.66,,2026-05-04T13:11:51.542Z,2026-07-11T00:00:01.746Z,2026-07-08T09:31:51.017Z
+sitestyt-ru-6dd92752,mx_host,sitestyt.ru,sitestyt.ru,1,1,mail.sitestyt.ru|mx.yandex.net,77.88.21.249|91.240.85.20,2a02:6b8::311,2026-05-04T13:11:51.542Z,2026-07-11T00:00:01.746Z,2026-07-08T12:26:36.340Z
+tmail-lt-7955a3b1,mx_host,tmail.lt,tmail.lt,1,1,mail.tmail.lt,40.87.155.22,,2026-07-11T00:00:01.746Z,2026-07-11T00:00:01.746Z,2026-07-11T00:05:19.299Z
+tmail-mx-2b941685,mx_host,tmail.mx,tmail.mx,1,1,mail.tmail.mx,40.87.155.22,,2026-07-11T00:00:01.746Z,2026-07-11T00:00:01.746Z,2026-07-11T00:05:20.359Z
+topikt-com-25c832b7,mx_host,topikt.com,topikt.com,1,1,topikt.com,45.152.192.238,,2026-05-04T13:11:51.542Z,2026-07-11T00:00:01.746Z,2026-07-08T13:42:10.899Z
+travellersrestlabs-click-c48ee6eb,mx_host,travellersrestlabs.click,travellersrestlabs.click,1,1,mail.quick.travellersrestlabs.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-11T11:00:01.442Z,2026-07-11T11:00:01.442Z,
+trybillieholiday-click-bae3b31a,mx_host,trybillieholiday.click,trybillieholiday.click,1,1,mail.customer.trybillieholiday.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-11T11:00:01.442Z,2026-07-11T11:00:01.442Z,

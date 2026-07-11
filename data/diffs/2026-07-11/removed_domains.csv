@@ -1,0 +1,4 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+daorrus.com,mail-ru-2e239c39,mail.ru,emx.mail.ru,217.69.139.180|94.100.180.180,,2026-07-10T03:04:00.825Z,2026-06-10T11:00:01.566Z,2026-07-10T00:00:02.324Z,2026-07-05T00:02:29.113Z
+lnbox.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-07-10T03:09:19.879Z,2026-06-04T00:00:01.971Z,2026-07-10T00:00:02.324Z,2026-07-06T00:00:38.543Z
+mailk.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-07-10T03:09:52.617Z,2026-06-11T00:00:01.906Z,2026-07-10T00:00:02.324Z,2026-07-05T00:02:42.197Z
