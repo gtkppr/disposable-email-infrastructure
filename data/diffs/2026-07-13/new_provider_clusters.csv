@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+billieholidayly-click-4b3787a9,mx_host,billieholidayly.click,billieholidayly.click,1,1,mail.billieholidayly.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-13T11:00:02.019Z,2026-07-13T11:00:02.019Z,
+cholecalce-com-5039e2fa,mx_host,cholecalce.com,cholecalce.com,1,1,mail.cholecalce.com,5.230.123.239,,2026-07-13T11:00:02.019Z,2026-07-13T11:00:02.019Z,
+insupportkl-ru-b341edec,mx_host,insupportkl.ru,insupportkl.ru,1,1,mail.insupportkl.ru,5.230.123.239,,2026-07-13T11:00:02.019Z,2026-07-13T11:00:02.019Z,
+securxid-com-7a0fa8b4,mx_host,securxid.com,securxid.com,1,1,mail.securxid.com,92.38.145.145,,2026-05-04T13:11:51.542Z,2026-07-13T00:00:02.234Z,2026-07-08T09:57:20.543Z
+trieuhao-site-62314e6b,mx_host,trieuhao.site,trieuhao.site,1,1,emailfake.com|mail.trieuhao.site,188.114.96.2|188.114.97.2|91.196.52.205,2a06:98c1:3120::2|2a06:98c1:3121::2,2026-07-13T11:00:02.019Z,2026-07-13T11:00:02.019Z,
+trlan-com-fb0e9e1b,mx_host,trlan.com,trlan.com,1,1,spam.trlan.com|spam1.trlan.com,104.247.160.49|185.106.211.36,,2026-07-13T00:00:02.234Z,2026-07-13T00:00:02.234Z,2026-07-13T00:03:18.594Z
+trybillieholiday-click-bae3b31a,mx_host,trybillieholiday.click,trybillieholiday.click,1,2,mail.corrective.trybillieholiday.click|mail.service.trybillieholiday.click,77.237.235.246,2a02:c206:2239:9872::1,2026-07-13T11:00:02.019Z,2026-07-13T11:00:02.019Z,
