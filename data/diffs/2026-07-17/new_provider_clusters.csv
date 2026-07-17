@@ -1,0 +1,16 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+azrmail-com-457e22b0,mx_host,azrmail.com,azrmail.com,1,1,mail.azrmail.com,150.109.93.180,,2026-05-04T13:11:51.542Z,2026-07-17T00:00:01.770Z,2026-07-16T01:50:16.556Z
+buchnera-org-4753af1d,mx_host,buchnera.org,buchnera.org,1,1,mail.buchnera.org,185.36.81.57,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+cf2c-net-12f72a41,mx_host,cf2c.net,cf2c.net,1,1,mail.cf2c.net|mail.courrier.cf2c.net|mxbackup1.junkemailfilter.com|mxbackup2.junkemailfilter.com,184.105.182.141|184.105.182.211|184.105.182.212|184.105.182.213|184.105.182.221|184.105.182.222|184.105.182.223|57.129.69.78|82.65.253.134,,2026-07-17T00:00:01.770Z,2026-07-17T00:00:01.770Z,2026-07-17T00:01:45.968Z
+checkedity-com-7babe051,mx_host,checkedity.com,checkedity.com,1,1,mx-domain.checkedity.com,198.199.101.252,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+davenstore-com-185ecf93,mx_host,davenstore.com,davenstore.com,1,1,davenstore.com,195.88.211.226,,2026-05-04T13:11:51.542Z,2026-07-17T00:00:01.770Z,2026-07-16T03:31:26.916Z
+grubbyhub-org-c8591152,mx_host,grubbyhub.org,grubbyhub.org,1,1,mail.grubbyhub.org,185.36.81.57,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+meikeya-com-bc60ba3e,mx_host,meikeya.com,meikeya.com,1,1,mail.meikeya.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+sudaley-com-55d284dd,mx_host,sudaley.com,sudaley.com,1,1,mail.sudaley.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+tempmailito-shop-2e873151,mx_host,tempmailito.shop,tempmailito.shop,1,1,tempmailito.shop,31.76.244.51,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+tongtode-com-6aeca6cf,mx_host,tongtode.com,tongtode.com,1,1,mail.tongtode.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+twskyhope-top-263d52cb,mx_host,twskyhope.top,twskyhope.top,1,1,mail.twskyhope.top,38.49.213.52,,2026-07-11T00:00:01.746Z,2026-07-17T00:00:01.770Z,2026-07-11T00:05:20.409Z
+vicitro-com-ee65a644,mx_host,vicitro.com,vicitro.com,1,1,mail.vicitro.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+wudiart-com-d2e24052,mx_host,wudiart.com,wudiart.com,1,1,mail.wudiart.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+xhseeds-com-b495d4ae,mx_host,xhseeds.com,xhseeds.com,1,1,mail.xhseeds.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
+ywbin-com-cda659c7,mx_host,ywbin.com,ywbin.com,1,1,mail.ywbin.com,134.199.177.18,,2026-07-17T11:00:01.642Z,2026-07-17T11:00:01.642Z,
