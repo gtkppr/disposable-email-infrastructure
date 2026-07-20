@@ -1,0 +1,5 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+asteraavia-ru-3a20287b,mx_host,asteraavia.ru,asteraavia.ru,1,1,mail.asteraavia.ru,151.248.114.50,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-07-20T00:00:02.395Z,2026-07-16T01:40:45.820Z
+bydx-uk-58d1acad,mx_host,bydx.uk,bydx.uk,1,1,mail.bydx.uk,75.119.137.36,2a02:c207:2334:569::1,2026-07-06T00:00:02.101Z,2026-07-20T00:00:02.395Z,2026-07-14T00:07:15.863Z
+forbmmend-com-b94a6276,mx_host,forbmmend.com,forbmmend.com,1,1,mailstore.forbmmend.com,192.241.202.167,,2026-07-20T11:00:02.236Z,2026-07-20T11:00:02.236Z,
+serverqiu-com-dfdf1507,mx_host,serverqiu.com,serverqiu.com,1,1,serverqiu.com,89.105.220.180,,2026-05-04T13:11:51.542Z,2026-07-20T00:00:02.395Z,2026-07-16T12:05:16.486Z
