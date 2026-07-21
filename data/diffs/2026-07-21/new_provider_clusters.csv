@@ -1,0 +1,13 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+dfemails-com-dee28a5d,mx_host,dfemails.com,dfemails.com,1,1,mx.dfemails.com,,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T03:41:20.158Z
+efremails-com-a790bc97,mx_host,efremails.com,efremails.com,1,1,mx.efremails.com,167.179.109.39,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T04:15:34.202Z
+filips-cloud-84d9a4e3,mx_host,filips.cloud,filips.cloud,1,1,mail.filips.cloud,77.68.25.52,,2026-06-04T11:00:02.467Z,2026-07-21T00:00:01.477Z,2026-07-15T00:05:55.552Z
+filmskachatnatelefon-com-1fbf8352,mx_host,filmskachatnatelefon.com,filmskachatnatelefon.com,1,1,mail.filmskachatnatelefon.com,91.217.80.97,,2026-07-21T11:00:01.485Z,2026-07-21T11:00:01.485Z,
+kodemailing-com-2c127c1d,mx_host,kodemailing.com,kodemailing.com,1,1,mx.kodemailing.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T07:35:57.935Z
+out-mail-com-5cc0c3ab,mx_host,out-mail.com,out-mail.com,1,1,mx.out-mail.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T10:14:56.765Z
+out-mail-net-0db24bd1,mx_host,out-mail.net,out-mail.net,1,1,mail.out-mail.net,167.179.109.39,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T10:15:00.137Z
+racavor-com-22553f55,mx_host,racavor.com,racavor.com,1,1,gateway.racavor.com,198.199.109.103,,2026-07-21T11:00:01.485Z,2026-07-21T11:00:01.485Z,
+toyotavlzh-com-42f0613f,mx_host,toyotavlzh.com,toyotavlzh.com,1,1,mx.toyotavlzh.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T13:28:52.835Z
+vmvgoing-com-b14cf98f,mx_host,vmvgoing.com,vmvgoing.com,1,1,mx.vmvgoing.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T14:16:26.229Z
+yeahdresses-com-27ce7250,mx_host,yeahdresses.com,yeahdresses.com,1,1,mx.yeahdresses.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T15:09:59.467Z
+zcash-cloud-com-7c0eb558,mx_host,zcash-cloud.com,zcash-cloud.com,1,1,mx.zcash-cloud.com,52.18.59.124,,2026-05-04T13:11:51.542Z,2026-07-21T00:00:01.477Z,2026-07-16T15:23:18.806Z
