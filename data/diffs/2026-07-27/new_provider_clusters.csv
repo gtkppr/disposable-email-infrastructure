@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+106mail-com-e02444be,mx_host,106mail.com,106mail.com,1,1,106mail.com,23.254.148.16,,2026-05-04T13:11:51.542Z,2026-07-27T00:00:01.858Z,2026-07-24T00:05:56.066Z
+absroma-it-9b7c9614,mx_host,absroma.it,absroma.it,1,1,mail.absroma.it,2.59.170.116,,2026-07-27T11:00:01.594Z,2026-07-27T11:00:01.594Z,
+kra41-im-24c0aea7,mx_host,kra41.im,kra41.im,1,1,mail.kra41.im,178.16.53.37,,2026-07-27T11:00:01.594Z,2026-07-27T11:00:01.594Z,
+lumenbay-info-4f78d7bf,mx_host,lumenbay.info,lumenbay.info,1,1,mx.lumenbay.info,152.53.245.147,,2026-07-27T00:00:01.858Z,2026-07-27T00:00:01.858Z,2026-07-27T00:06:17.554Z
+mailobot-com-fdbd828e,mx_host,mailobot.com,mailobot.com,1,1,mail.mailobot.com,135.181.7.245,,2026-05-04T13:11:51.542Z,2026-07-27T00:00:01.858Z,2026-07-24T13:59:41.373Z
+meingan-com-9e610990,mx_host,meingan.com,meingan.com,1,1,inx.meingan.com,192.241.226.104,,2026-07-27T11:00:01.594Z,2026-07-27T11:00:01.594Z,
+securityalarmco-site-e1b8757b,mx_host,securityalarmco.site,securityalarmco.site,1,1,box.securityalarmco.site,,,2026-07-27T11:00:01.594Z,2026-07-27T11:00:01.594Z,
+sliqua-com-c97f20f2,mx_host,sliqua.com,sliqua.com,1,1,falcon.sliqua.com,199.58.201.62,,2026-05-04T13:11:51.542Z,2026-07-27T00:00:01.858Z,2026-07-24T13:53:05.905Z
+tnhshop-site-ed3da73e,mx_host,tnhshop.site,tnhshop.site,1,1,tnhshop.site,103.77.241.140,,2026-05-04T13:11:51.542Z,2026-07-27T00:00:01.858Z,2026-07-24T13:48:58.273Z
