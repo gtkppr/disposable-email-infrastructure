@@ -1,0 +1,12 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+kuromee-com-25ee41ae,mx_host,kuromee.com,kuromee.com,10,18,mail.kuromee.com,202.78.170.241,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T16:09:02.110Z
+kuzenkov-net-91cb0426,mx_host,kuzenkov.net,kuzenkov.net,4,4,db.obninsk.biz|kuzenkov.net,77.244.68.22|77.244.77.19,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T06:37:57.114Z
+obninsk-biz-54713faa,mx_host,obninsk.biz,obninsk.biz,4,4,db.obninsk.biz|kuzenkov.net,77.244.68.22|77.244.77.19,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T06:37:57.114Z
+01898-com-35933825,mx_host,01898.com,01898.com,1,1,mx.01898.com,66.96.140.108|66.96.140.109,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T09:01:44.865Z
+121644-cc-12c6c5db,mx_host,121644.cc,121644.cc,1,1,mail.121644.cc|smtp.121644.cc,143.20.185.228,,2026-07-28T11:00:01.962Z,2026-07-28T11:00:01.962Z,
+gmial-com-80c026d2,mx_host,gmial.com,gmial.com,1,1,mail.gmial.com,163.245.214.78,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T05:29:34.154Z
+increasu-com-55098761,mx_host,increasu.com,increasu.com,1,1,rte01.increasu.com,198.199.108.139,,2026-07-28T11:00:01.962Z,2026-07-28T11:00:01.962Z,
+indonesianblades-com-23cdbce6,mx_host,indonesianblades.com,indonesianblades.com,1,1,indonesianblades.com,104.21.2.211|172.67.129.179,2606:4700:3033::6815:2d3|2606:4700:3037::ac43:81b3,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T01:06:00.028Z
+mail-by-cfdb105f,mx_host,mail.by,mail.by,1,1,mail.by,93.125.25.157,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T08:19:20.766Z
+seo4u-site-5c1afb1f,mx_host,seo4u.site,seo4u.site,1,1,mail.seo4u.site,83.229.19.105,,2026-05-04T13:11:51.542Z,2026-07-28T00:00:02.144Z,2026-07-24T12:24:06.540Z
+verel-online-aa612448,mx_host,verel.online,verel.online,1,1,email.chatgpt.org.uk|mail.verel.online|smtp.catchmail.io,157.173.105.118|158.101.127.66|18.142.45.160,,2026-07-28T00:00:02.144Z,2026-07-28T00:00:02.144Z,2026-07-28T00:02:22.635Z
