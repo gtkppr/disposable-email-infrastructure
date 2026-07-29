@@ -1,0 +1,13 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+aaronwl-com-8d2096ad,mx_host,aaronwl.com,aaronwl.com,1,1,aaronwl.com|sita.aaronwl.com,173.11.108.178|34.73.95.183,,2026-05-04T13:11:51.542Z,2026-07-29T00:00:01.915Z,2026-07-24T06:12:10.825Z
+digiaservice-net-8e94afe1,mx_host,digiaservice.net,digiaservice.net,1,1,digiaservice.net,192.185.181.229,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,,2026-05-04T13:11:51.542Z,2026-07-29T00:00:01.915Z,2026-07-24T03:38:57.477Z
+direaly-com-139115d9,mx_host,direaly.com,direaly.com,1,1,mail.direaly.com,147.93.81.87,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+fashond-com-41eff83a,mx_host,fashond.com,fashond.com,1,1,oriental2.fashond.com,107.170.251.210,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+imagelabsaibig-com-acaad646,mx_host,imagelabsaibig.com,imagelabsaibig.com,1,1,mail.imagelabsaibig.com,45.137.214.171,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+mail-filtering-com-au-a7503516,mx_host,mail-filtering.com.au,mail-filtering.com.au,1,1,uber-in.mail-filtering.com.au,103.224.182.250,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+mobilityireland-co-uk-23ec88f9,mx_host,mobilityireland.co.uk,mobilityireland.co.uk,1,1,mail.mobilityireland.co.uk,192.185.181.229,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,,2026-05-04T13:11:51.542Z,2026-07-29T00:00:01.915Z,2026-07-24T09:04:28.448Z
+rapteil-com-46d31529,mx_host,rapteil.com,rapteil.com,1,1,mail.rapteil.com,147.93.81.87,,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+spamora-net-6e363cf4,mx_host,spamora.net,spamora.net,1,1,mxl1-mail.spamora.net|mxp1-mail.spamora.net|mxv1-mail.spamora.net|mxv2-mail.spamora.net,185.26.104.20|185.26.104.234|185.26.104.235|185.26.107.210,2a04:3740::185:26:104:20,2026-07-29T11:00:01.706Z,2026-07-29T11:00:01.706Z,
+us-to-1cf3972c,mx_host,us.to,us.to,1,1,ag.us.to,104.251.216.189,,2026-05-04T13:11:51.542Z,2026-07-29T00:00:01.915Z,2026-07-24T01:06:00.028Z

@@ -1,0 +1,2 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+gmual.com,h-email-net-2f9bd5ed,h-email.net,mail.h-email.net,162.55.164.116|165.227.156.49|165.227.159.144|167.235.143.33|178.62.199.248|49.13.4.90|5.161.194.135|5.161.98.212|5.75.171.74|91.107.214.206,,2026-07-28T03:06:34.593Z,2026-06-29T00:00:02.038Z,2026-07-28T00:00:02.144Z,2026-07-23T00:24:57.830Z
