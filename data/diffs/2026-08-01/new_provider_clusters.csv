@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249|72.251.7.22|72.251.7.23,,2026-05-04T13:11:51.542Z,2026-08-01T00:00:01.643Z,2026-07-24T00:01:43.361Z
+bejum-com-7a072bea,mx_host,bejum.com,bejum.com,1,1,mail.bejum.com,167.172.1.7,,2026-08-01T11:00:02.419Z,2026-08-01T11:00:02.419Z,
+cc-cd-d0df9482,mx_host,cc.cd,cc.cd,1,1,email.chatgpt.org.uk.blog3.cc.cd,,,2026-06-10T00:00:01.753Z,2026-08-01T00:00:01.643Z,2026-07-28T00:00:45.769Z
+copawoke-com-3a3ffaf4,mx_host,copawoke.com,copawoke.com,1,1,mail.copawoke.com,167.172.1.7,,2026-08-01T11:00:02.419Z,2026-08-01T11:00:02.419Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,,2026-05-04T13:11:51.542Z,2026-08-01T00:00:01.643Z,2026-07-24T03:38:57.477Z
+kehine-com-af4233cf,mx_host,kehine.com,kehine.com,1,1,cc-mail3.kehine.com,107.170.247.228,,2026-08-01T11:00:02.419Z,2026-08-01T11:00:02.419Z,
+zruvix-com-71e42bf8,mx_host,zruvix.com,zruvix.com,1,1,mail.zruvix.com,92.4.81.81,,2026-06-04T11:00:02.467Z,2026-08-01T00:00:01.643Z,2026-07-31T00:07:11.383Z
