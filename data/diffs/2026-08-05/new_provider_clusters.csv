@@ -1,0 +1,9 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+domcollect-com-ae555f0b,mx_host,domcollect.com,domcollect.com,15,15,mail-gateway.domcollect.com,193.105.134.219,,2026-05-04T13:11:51.542Z,2026-08-05T00:00:02.347Z,2026-08-02T00:05:43.766Z
+acetylcholgh-ru-20182107,mx_host,acetylcholgh.ru,acetylcholgh.ru,1,1,mail.acetylcholgh.ru,5.230.124.217,,2026-05-04T13:11:51.542Z,2026-08-05T00:00:02.347Z,2026-08-01T01:00:58.658Z
+basonut-com-68b619d3,mx_host,basonut.com,basonut.com,1,1,postmaster.basonut.com,138.197.239.249,,2026-08-05T11:00:01.395Z,2026-08-05T11:00:01.395Z,
+ddna7-shop-da7af34c,mx_host,ddna7.shop,ddna7.shop,1,1,mail.ddna7.shop,31.58.181.165,,2026-08-05T11:00:01.395Z,2026-08-05T11:00:01.395Z,
+meetwisetransfer-click-e8bfe948,mx_host,meetwisetransfer.click,meetwisetransfer.click,1,1,mail.mailus.meetwisetransfer.click,77.237.235.246,2a02:c206:2239:9872::1,2026-08-05T11:00:01.395Z,2026-08-05T11:00:01.395Z,
+mmmail-pl-5b20405c,mx_host,mmmail.pl,mmmail.pl,1,1,mail.mmmail.pl,195.78.67.18,,2026-05-04T13:11:51.542Z,2026-08-05T00:00:02.347Z,2026-08-01T08:48:25.010Z
+rutor8-forum-7243856d,mx_host,rutor8.forum,rutor8.forum,1,1,mail.rutor8.forum,31.58.181.165,,2026-08-05T11:00:01.395Z,2026-08-05T11:00:01.395Z,
+securityalarmco-site-e1b8757b,mx_host,securityalarmco.site,securityalarmco.site,1,1,box.securityalarmco.site,,,2026-08-05T11:00:01.395Z,2026-08-05T11:00:01.395Z,
