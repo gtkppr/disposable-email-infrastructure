@@ -1,0 +1,14 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+tmailin-com-e08510dc,mx_host,tmailin.com,tmailin.com,2,2,mail.tmailin.com,38.242.254.87,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T10:56:02.719Z
+argosmail-xyz-7e876769,mx_host,argosmail.xyz,argosmail.xyz,1,1,mail.argosmail.xyz,188.68.242.190,,2026-08-07T11:00:01.966Z,2026-08-07T11:00:01.966Z,
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,185.45.195.249|72.251.7.22|72.251.7.23,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T00:01:49.832Z
+brajer-pl-15f52e27,mx_host,brajer.pl,brajer.pl,1,1,mail.brajer.pl,185.200.47.182,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T02:25:19.573Z
+brokeragedxb-com-14f70bc1,mx_host,brokeragedxb.com,brokeragedxb.com,1,1,mail.brokeragedxb.com,185.99.254.4,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T02:27:02.830Z
+byteforge-click-e00e704d,mx_host,byteforge.click,byteforge.click,1,1,mail.byteforge.click,37.27.59.114,,2026-08-07T11:00:01.966Z,2026-08-07T11:00:01.966Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,151.248.114.50,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T03:41:24.282Z
+mg21-st-68a265df,mx_host,mg21.st,mg21.st,1,1,mail.mg21.st,31.58.181.165,,2026-08-07T11:00:01.966Z,2026-08-07T11:00:01.966Z,
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T08:53:24.184Z
+ostrozneinwestowanie-pl-11f0bb95,mx_host,ostrozneinwestowanie.pl,ostrozneinwestowanie.pl,1,1,mail.ostrozneinwestowanie.pl,185.193.112.179,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T09:54:11.159Z
+tempmailx-xyz-125c17be,mx_host,tempmailx.xyz,tempmailx.xyz,1,1,mail.tempmailx.xyz,,,2026-08-02T00:00:01.744Z,2026-08-07T00:00:01.792Z,2026-08-02T00:03:51.390Z
+travodoctor-ru-90384f2b,mx_host,travodoctor.ru,travodoctor.ru,1,1,mail.travodoctor.ru,92.63.107.93,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T13:14:43.500Z
+warren-com-0872d5bc,mx_host,warren.com,warren.com,1,1,mail.warren.com|mx10.antispam.mailspamprotection.com|mx20.antispam.mailspamprotection.com|mx30.antispam.mailspamprotection.com,34.111.121.216|34.120.156.61|34.149.79.66|35.212.117.103,,2026-05-04T13:11:51.542Z,2026-08-07T00:00:01.792Z,2026-08-01T14:11:45.366Z
