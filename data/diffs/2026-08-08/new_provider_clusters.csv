@@ -1,0 +1,12 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+careney-com-cf6f64ce,mx_host,careney.com,careney.com,1,1,mail.careney.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+cecunat-com-fff41be7,mx_host,cecunat.com,cecunat.com,1,1,mailstore.cecunat.com,104.131.134.67,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+hoelee-com-6b4cbea0,mx_host,hoelee.com,hoelee.com,1,1,mail.hoelee.com,41.216.187.102,,2026-05-04T13:11:51.542Z,2026-08-08T00:00:01.864Z,2026-08-01T11:53:50.072Z
+lanvos-com-73e94486,mx_host,lanvos.com,lanvos.com,1,1,mail.lanvos.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+linkpc-net-2843e7ee,mx_host,linkpc.net,linkpc.net,1,1,mail.dl.linkpc.net,185.165.46.94,,2026-08-02T00:00:01.744Z,2026-08-08T00:00:01.864Z,2026-08-02T00:03:51.390Z
+mrworlds-com-e07be0ee,mx_host,mrworlds.com,mrworlds.com,1,1,mail.mrworlds.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+netiren-com-033d2dff,mx_host,netiren.com,netiren.com,1,1,mail.netiren.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+primetor-com-461a372b,mx_host,primetor.com,primetor.com,1,1,mail.primetor.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+rpaintel-com-96b5b137,mx_host,rpaintel.com,rpaintel.com,1,1,mail.rpaintel.com,137.184.240.148,,2026-08-08T11:00:01.604Z,2026-08-08T11:00:01.604Z,
+sanering-stockholm-nu-58ab05ca,mx_host,sanering-stockholm.nu,sanering-stockholm.nu,1,1,mail.sanering-stockholm.nu,45.67.15.99,,2026-05-04T13:11:51.542Z,2026-08-08T00:00:01.864Z,2026-08-01T11:33:37.390Z
+yahoomail-fun-14c81ff7,mx_host,yahoomail.fun,yahoomail.fun,1,1,yahoomail.fun,190.92.174.104,,2026-05-04T13:11:51.542Z,2026-08-08T00:00:01.864Z,2026-08-01T14:56:03.102Z
