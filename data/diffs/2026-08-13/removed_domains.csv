@@ -1,0 +1,5 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+558888.ru,mail-ru-2e239c39,mail.ru,emx.mail.ru,217.69.139.180|94.100.180.180,,2026-08-12T03:00:39.764Z,2026-08-06T00:00:01.467Z,2026-08-12T00:00:02.556Z,2026-08-06T00:04:13.852Z
+mail.ani-nya.com,ani-nya-com-964aae84,ani-nya.com,mail.ani-nya.com,107.189.29.134,2605:6400:30:ed56::1,2026-08-12T03:10:11.971Z,2026-05-04T13:11:51.542Z,2026-08-12T00:00:02.556Z,2026-08-09T09:30:51.781Z
+tor.email,oxcs-net-f34ba68d,oxcs.net,mx001.dclux.xion.oxcs.net|mx002.dclux.xion.oxcs.net|mx003.dclux.xion.oxcs.net|mx004.dclux.xion.oxcs.net,135.125.7.163|135.125.7.164|51.89.43.215|51.89.43.216,,2026-08-12T03:16:03.200Z,2026-08-12T00:00:02.556Z,2026-08-12T00:00:02.556Z,2026-08-12T00:08:05.937Z
+yndeks.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-12T03:18:04.108Z,2026-08-06T00:00:01.467Z,2026-08-12T00:00:02.556Z,2026-08-06T00:45:15.726Z
