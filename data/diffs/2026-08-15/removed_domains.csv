@@ -1,0 +1,5 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+erator.email,,,,,,2026-08-14T11:00:02.244Z,2026-08-14T00:00:02.237Z,2026-08-14T00:00:02.237Z,2026-08-14T00:46:47.626Z
+ercansoy.com.tr,guzel-net-tr-b43519ca,guzel.net.tr,mt-spamexperts.guzel.net.tr|ni-spamexperts.guzel.net.tr,104.247.160.49|185.106.211.36,,2026-08-14T03:06:06.288Z,2026-08-06T00:00:01.467Z,2026-08-14T00:00:02.237Z,2026-08-14T00:15:37.213Z
+r.email,,,,,,2026-08-14T11:00:02.244Z,2026-08-14T00:00:02.237Z,2026-08-14T00:00:02.237Z,2026-08-14T00:46:51.330Z
+sql.vezra.store,,,,,,2026-08-14T11:00:02.244Z,2026-08-06T00:00:01.467Z,2026-08-14T00:00:02.237Z,2026-08-14T00:37:50.955Z

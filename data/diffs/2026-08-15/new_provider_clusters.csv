@@ -1,0 +1,16 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+80600-net-f27d8250,mx_host,80600.net,80600.net,1,1,80600.net,47.240.64.146,,2026-05-04T13:11:51.542Z,2026-08-15T00:00:02.240Z,2026-08-09T00:48:17.599Z
+axfra-net-67a4d203,mx_host,axfra.net,axfra.net,1,1,mx1.fff.vg|mx2.fff.vg|web-lax-1.axfra.net,104.219.250.37|185.45.195.249|2.59.170.20,,2026-05-04T13:11:51.542Z,2026-08-15T00:00:02.240Z,2026-08-09T00:01:41.755Z
+bestprice-exchange-e8a8c05e,mx_host,bestprice.exchange,bestprice.exchange,1,1,mail.bestprice.exchange,169.58.151.129,,2026-05-04T13:11:51.542Z,2026-08-15T00:00:02.240Z,2026-08-09T02:10:43.194Z
+cafes-net-706e580b,mx_host,cafes.net,cafes.net,1,1,mail.cafes.net|mxbackup1.junkemailfilter.com|mxbackup2.junkemailfilter.com|newmail.cafes.net,173.166.240.211|184.105.182.140|184.105.182.210|184.105.182.211|184.105.182.212|184.105.182.220|184.105.182.221|184.105.182.222,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:31.924Z
+gu-uy-8226ee97,mx_host,gu.uy,gu.uy,1,1,mail.gu.uy,23.94.85.254,,2026-05-04T13:11:51.542Z,2026-08-15T00:00:02.240Z,2026-08-09T00:27:00.078Z
+jumeirahislandsmaintenance-com-5baf84ae,mx_host,jumeirahislandsmaintenance.com,jumeirahislandsmaintenance.com,1,1,mail.jumeirahislandsmaintenance.com,185.99.254.4,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:34.001Z
+mailifybox-xyz-44267783,mx_host,mailifybox.xyz,mailifybox.xyz,1,1,mail.mailifybox.xyz,186.240.157.29,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:34.473Z
+mailo-codes-db85fe77,mx_host,mailo.codes,mailo.codes,1,1,imap.mailo.codes,169.58.22.33,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:35.446Z
+phuturemail-com-e29d9a6c,mx_host,phuturemail.com,phuturemail.com,1,1,mail.phuturemail.com,107.172.58.126,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:36.194Z
+purposeer-com-8bc1c471,mx_host,purposeer.com,purposeer.com,1,1,bak003.purposeer.com,159.203.212.40,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:36.528Z
+raxel-me-f8fda26b,mx_host,raxel.me,raxel.me,1,1,mail.raxel.me,94.250.202.219,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:36.866Z
+rbiwc-com-5797de77,mx_host,rbiwc.com,rbiwc.com,1,1,rbiwc.com,89.41.177.28,,2026-05-04T13:11:51.542Z,2026-08-15T00:00:02.240Z,2026-08-09T12:21:19.990Z
+tnhshop-site-ed3da73e,mx_host,tnhshop.site,tnhshop.site,1,1,tnhshop.site,103.77.241.140,,2026-08-06T00:00:01.467Z,2026-08-15T00:00:02.240Z,2026-08-14T00:39:58.857Z
+wempmail-com-02fa674d,mx_host,wempmail.com,wempmail.com,1,1,mail.wempmail.com,178.238.224.19,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:38.207Z
+zeply-me-53fe856d,mx_host,zeply.me,zeply.me,1,1,mail.zeply.me,169.58.22.33,,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:38.950Z
