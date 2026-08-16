@@ -1,0 +1,4 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+ator.email,,,,,,2026-08-15T11:00:02.265Z,2026-08-15T00:00:02.240Z,2026-08-15T00:00:02.240Z,2026-08-15T00:21:32.339Z
+cf2c.net,junkemailfilter-com-58fad2ae|cf2c-net-12f72a41,junkemailfilter.com|cf2c.net,mail.cf2c.net|mail.courrier.cf2c.net|mxbackup1.junkemailfilter.com|mxbackup2.junkemailfilter.com,184.105.182.140|184.105.182.210|184.105.182.211|184.105.182.212|184.105.182.220|184.105.182.221|184.105.182.222|57.129.69.78|82.65.253.134,,2026-08-15T03:03:57.326Z,2026-08-06T00:00:01.467Z,2026-08-15T00:00:02.240Z,2026-08-14T00:10:28.009Z
+gmai.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-15T03:07:30.457Z,2026-08-06T00:00:01.467Z,2026-08-15T00:00:02.240Z,2026-08-14T00:17:34.694Z
