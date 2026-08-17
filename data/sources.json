@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:00:02.211Z",
+  "generated_at": "2026-08-17T11:00:01.981Z",
   "sources": [
     {
       "name": "email-disposable",
@@ -8,7 +8,7 @@
       "domains_url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/disposable.json",
       "package_url": "https://raw.githubusercontent.com/gtkppr/email-disposable/refs/heads/main/package.json",
       "package_name": "email-disposable",
-      "package_version": "1.0.106"
+      "package_version": "1.0.107"
     },
     {
       "name": "Gatekeepr disposable MX enrichment",

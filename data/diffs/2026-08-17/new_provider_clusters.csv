@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+tempmails-cc-bcc931f1,mx_host,tempmails.cc,tempmails.cc,3,9,tempmails.cc,169.58.188.152,,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-16T00:14:37.363Z
+bizzz-pl-594e2f43,mx_host,bizzz.pl,bizzz.pl,1,1,mail.bizzz.pl,194.53.193.163,,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-09T02:17:56.527Z
+cc-cd-d0df9482,mx_host,cc.cd,cc.cd,1,1,email.chatgpt.org.uk.blog3.cc.cd,,,2026-06-10T00:00:01.753Z,2026-08-17T00:00:01.617Z,2026-08-13T00:00:53.427Z
+digimuse-org-ef9c0b3f,mx_host,digimuse.org,digimuse.org,1,1,digimuse.org,96.47.167.18,,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-09T03:51:41.799Z
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,151.248.114.50,,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-09T03:53:41.951Z
+fictnio-com-1a3d15a7,mx_host,fictnio.com,fictnio.com,1,1,direct100yq5oqj.fictnio.com,138.197.239.249,,2026-08-17T11:00:01.981Z,2026-08-17T11:00:01.981Z,
+kazanchik-ru-eb1368af,mx_host,kazanchik.ru,kazanchik.ru,1,1,mail.kazanchik.ru,185.239.50.40,,2026-08-06T00:00:01.467Z,2026-08-17T00:00:01.617Z,2026-08-14T00:21:49.435Z
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-09T10:15:14.059Z
+njtec-com-e064f73f,mx_host,njtec.com,njtec.com,1,1,mail.njtec.com|njtec.com,185.158.133.1,,2026-05-04T13:11:51.542Z,2026-08-17T00:00:01.617Z,2026-08-09T10:48:33.203Z
