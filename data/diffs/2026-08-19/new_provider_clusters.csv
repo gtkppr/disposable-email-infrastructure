@@ -1,0 +1,7 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+dochomthu-com-d1029457,mx_host,dochomthu.com,dochomthu.com,14,14,dochomthu.com,103.116.39.49,2400:ece0:0:2270::1,2026-05-04T13:11:51.542Z,2026-08-19T00:00:01.671Z,2026-08-17T13:31:18.632Z
+cooltechuae-xyz-6b2608d1,mx_host,cooltechuae.xyz,cooltechuae.xyz,1,1,mail.cooltechuae.xyz,185.99.254.4,,2026-08-19T11:00:01.549Z,2026-08-19T11:00:01.549Z,
+gettravellersrest-click-79736ac9,mx_host,gettravellersrest.click,gettravellersrest.click,1,1,mail.client.gettravellersrest.click,77.237.235.246,2a02:c206:2239:9872::1,2026-08-19T11:00:01.549Z,2026-08-19T11:00:01.549Z,
+necub-com-67ff0385,mx_host,necub.com,necub.com,1,1,mail.necub.com,173.230.139.246,,2026-05-04T13:11:51.542Z,2026-08-19T00:00:01.671Z,2026-08-17T10:40:18.951Z
+puuntong-com-561da353,mx_host,puuntong.com,puuntong.com,1,1,router.puuntong.com,138.197.239.249,,2026-08-19T11:00:01.549Z,2026-08-19T11:00:01.549Z,
+totalkw-com-4e38fa07,mx_host,totalkw.com,totalkw.com,1,1,mail.totalkw.com,,,2026-05-04T13:11:51.542Z,2026-08-19T00:00:01.671Z,2026-08-17T14:35:56.304Z
