@@ -1,0 +1,15 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+archifun-com-d64d27a1,mx_host,archifun.com,archifun.com,1,1,mail.archifun.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+bocably-com-ae3c2a18,mx_host,bocably.com,bocably.com,1,1,mail.bocably.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+contactoffice-com-b57ef1ed,mx_host,contactoffice.com,contactoffice.com,1,1,test2.contactoffice.com,212.3.242.113,,2026-05-04T13:11:51.542Z,2026-08-21T00:00:01.972Z,2026-08-17T09:38:38.673Z
+ehwit-com-19bed3a2,mx_host,ehwit.com,ehwit.com,1,1,mail.ehwit.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+kikaga-com-8634afaf,mx_host,kikaga.com,kikaga.com,1,1,mail.kikaga.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+koboywin-com-1c31c756,mx_host,koboywin.com,koboywin.com,1,1,mail.koboywin.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+kolsea-com-0017f709,mx_host,kolsea.com,kolsea.com,1,1,mail.kolsea.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+mail123-pro-f6cd63d8,mx_host,mail123.pro,mail123.pro,1,1,mail123.pro,37.59.205.213,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+mail123-site-79096ddb,mx_host,mail123.site,mail123.site,1,1,mail123.site,37.59.205.213,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+prodbits-com-209d81f1,mx_host,prodbits.com,prodbits.com,1,1,mail.prodbits.com,138.197.229.28,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
+tempmailx-xyz-125c17be,mx_host,tempmailx.xyz,tempmailx.xyz,1,1,mail.tempmailx.xyz,,,2026-08-02T00:00:01.744Z,2026-08-21T00:00:01.972Z,2026-08-18T00:03:52.927Z
+trlan-com-fb0e9e1b,mx_host,trlan.com,trlan.com,1,1,spam.trlan.com|spam1.trlan.com,104.247.160.49|185.106.211.36,,2026-08-21T00:00:01.972Z,2026-08-21T00:00:01.972Z,2026-08-21T00:02:43.608Z
+urleur-com-6d8a3d60,mx_host,urleur.com,urleur.com,1,1,urleur.com,138.252.214.30,,2026-05-04T13:11:51.542Z,2026-08-21T00:00:01.972Z,2026-08-17T15:04:58.736Z
+visitedity-com-43d685a2,mx_host,visitedity.com,visitedity.com,1,1,route.visitedity.com,138.197.239.249,,2026-08-21T11:00:02.065Z,2026-08-21T11:00:02.065Z,
