@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+ebflyai-com-efe42756,mx_host,ebflyai.com,ebflyai.com,1,1,mail.ebflyai.com,138.197.229.28,,2026-08-22T11:00:01.732Z,2026-08-22T11:00:01.732Z,
+nantmeur-com-d800eec7,mx_host,nantmeur.com,nantmeur.com,1,1,level3mx.nantmeur.com,107.170.254.105,,2026-08-22T11:00:01.732Z,2026-08-22T11:00:01.732Z,
+priyotv-one-af15ccdf,mx_host,priyotv.one,priyotv.one,1,1,fr.priyohost.net|mail.priyotv.one,51.255.64.196,,2026-06-05T00:00:02.275Z,2026-08-22T00:00:02.138Z,2026-08-16T00:14:39.037Z
+raccc-org-c7607d62,mx_host,raccc.org,raccc.org,1,1,mail.raccc.org,46.250.232.110,,2026-08-02T00:00:01.744Z,2026-08-22T00:00:02.138Z,2026-08-18T00:07:44.659Z
+spamok-de-461e84d5,mx_host,spamok.de,spamok.de,1,1,mail.spamok.de,,,2026-05-04T13:11:51.542Z,2026-08-22T00:00:02.138Z,2026-08-17T13:38:08.553Z
+ulaptopsn-com-49a8e810,mx_host,ulaptopsn.com,ulaptopsn.com,1,1,mail.ulaptopsn.com,156.67.218.240,,2026-05-04T13:11:51.542Z,2026-08-22T00:00:02.138Z,2026-08-17T14:59:36.143Z
+virtualtalentlabs-com-2b6fb5e1,mx_host,virtualtalentlabs.com,virtualtalentlabs.com,1,1,emailfake.com|mail.virtualtalentlabs.com,192.0.2.1|91.196.52.205,,2026-08-22T00:00:02.138Z,2026-08-22T00:00:02.138Z,2026-08-22T00:48:14.665Z
