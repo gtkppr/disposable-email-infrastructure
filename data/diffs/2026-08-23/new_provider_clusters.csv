@@ -1,0 +1,6 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+emailshield-cc-9224def1,mx_host,emailshield.cc,emailshield.cc,1,1,mail.emailshield.cc,104.219.250.37|2.59.170.20,,2026-07-06T00:00:02.101Z,2026-08-23T00:00:02.414Z,2026-08-23T00:10:23.212Z
+linkpc-net-2843e7ee,mx_host,linkpc.net,linkpc.net,1,1,mail.dl.linkpc.net,185.165.46.94,,2026-08-02T00:00:01.744Z,2026-08-23T00:00:02.414Z,2026-08-18T00:03:52.927Z
+mailtemp-tech-c9d7da79,mx_host,mailtemp.tech,mailtemp.tech,1,1,generator.email|mx.mailtemp.tech,129.226.148.155|91.196.52.205,,2026-08-20T11:00:02.263Z,2026-08-23T00:00:02.414Z,2026-08-21T00:02:41.239Z
+tempail-com-tr-8182713d,mx_host,tempail.com.tr,tempail.com.tr,1,1,mail.tempail.com.tr,104.247.167.50,,2026-05-04T13:11:51.542Z,2026-08-23T00:00:02.414Z,2026-08-17T14:11:39.099Z
+totalkw-com-4e38fa07,mx_host,totalkw.com,totalkw.com,1,1,mail.totalkw.com,,,2026-05-04T13:11:51.542Z,2026-08-23T00:00:02.414Z,2026-08-17T14:35:56.304Z
