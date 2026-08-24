@@ -1,0 +1,9 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+hiverun-io-aa1b9aaf,mx_host,hiverun.io,hiverun.io,2,2,emailfake.com|mail.hiverun.io,188.114.96.2|188.114.97.2|91.196.52.205,2a06:98c1:3120::2|2a06:98c1:3121::2,2026-08-22T00:00:02.138Z,2026-08-24T00:00:02.184Z,2026-08-23T00:22:06.722Z
+axgrad-io-8e4c9c9b,mx_host,axgrad.io,axgrad.io,1,1,emailfake.com|mail.axgrad.io,188.114.96.2|188.114.97.2|91.196.52.205,2a06:98c1:3120::2|2a06:98c1:3121::2,2026-08-23T00:00:02.414Z,2026-08-24T00:00:02.184Z,2026-08-23T00:22:07.979Z
+buy-tj-e2808059,mx_host,buy.tj,buy.tj,1,1,mail.buy.tj,185.200.240.65,,2026-05-04T13:11:51.542Z,2026-08-24T00:00:02.184Z,2026-08-17T03:26:54.015Z
+dexamail-com-4d08952b,mx_host,dexamail.com,dexamail.com,1,1,dexamail.com,198.251.84.141,,2026-05-04T13:11:51.542Z,2026-08-24T00:00:02.184Z,2026-08-17T04:39:39.027Z
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-08-24T00:00:02.184Z,2026-08-17T10:17:36.925Z
+siessed-com-92907a51,mx_host,siessed.com,siessed.com,1,1,mail-1.siessed.com,162.243.150.138,,2026-08-24T11:00:02.364Z,2026-08-24T11:00:02.364Z,
+tnhshop-site-ed3da73e,mx_host,tnhshop.site,tnhshop.site,1,1,tnhshop.site,103.77.241.140,,2026-08-06T00:00:01.467Z,2026-08-24T00:00:02.184Z,2026-08-22T00:41:00.501Z
+xgmail-bond-fa9c2625,mx_host,xgmail.bond,xgmail.bond,1,1,mail.xgmail.bond,47.84.203.164,,2026-07-09T00:00:02.107Z,2026-08-24T00:00:02.184Z,2026-08-18T00:01:40.792Z
