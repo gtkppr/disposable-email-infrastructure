@@ -1,0 +1,16 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+263.com,263-net-676f1020,263.net,mx.263.net|mxw.263.net,107.150.117.76|128.1.42.104|128.14.224.70,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+3mail.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T03:00:35.014Z,2026-08-30T00:00:02.160Z,2026-08-30T00:00:02.160Z,2026-08-30T00:47:14.520Z
+ankniwn.com,ankniwn-com-92889b6e,ankniwn.com,msn.ankniwn.com,192.241.213.43,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+artisballs.onthewifi.com,trashmailr-com-fae19c4a,trashmailr.com,mx.trashmailr.com,159.195.62.192,2a0a:4cc0:c1:fdc2:3449:18ff:fed2:631a,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+bvz4p.anonbox.net,anonbox-net-b4af7437,anonbox.net,anonbox.net,185.106.84.103,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+maol.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T03:11:03.310Z,2026-08-30T00:00:02.160Z,2026-08-30T00:00:02.160Z,2026-08-30T00:47:14.911Z
+nsil.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T03:12:13.244Z,2026-08-30T00:00:02.160Z,2026-08-30T00:00:02.160Z,2026-08-30T00:47:14.899Z
+oshjr-24.xyz,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+rabk.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+riho.keoiex.sbs,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+yadnex.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T03:18:29.929Z,2026-08-30T00:00:02.160Z,2026-08-30T00:00:02.160Z,2026-08-30T00:47:15.298Z
+yahoio.com,,,,,,,,,
+yandyx.ru,blackhole-mx-579705ce,blackhole.mx,void.blackhole.mx,195.201.28.161|78.47.159.103|95.217.0.12,2a01:4f8:1c0c:54b0::2|2a01:4f8:1c17:4376::2|2a01:4f9:c010:2ce2::2,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+ygebjd8-ktyd.top,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,2026-08-30T11:00:01.658Z,
+yn.ru,,,,,,,,,
