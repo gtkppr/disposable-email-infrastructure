@@ -1,0 +1,14 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+b34yc.anonbox.net,anonbox-net-b4af7437,anonbox.net,anonbox.net,185.106.84.103,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+brazbuzii.online,chatgpt-org-uk-1f2f6de7,chatgpt.org.uk,email.chatgpt.org.uk,138.226.240.26,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+corridor.bond,,,,,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+gala-tek.com,263-net-676f1020,263.net,mx.263.net|mxw.263.net,107.150.117.76|128.1.42.104|128.14.224.70,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+kzxl.cossosjq.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+leanmfg.com,spamex-com-f4c9735f,spamex.com,smtp.spamex.com,107.23.174.199,,2026-09-03T03:09:35.145Z,2026-09-03T00:00:02.609Z,2026-09-03T00:00:02.609Z,2026-09-03T00:13:25.545Z
+lisy.ru,,,,,,,,,
+modelform.com.tr,guzel-net-tr-b43519ca,guzel.net.tr,mt-spamexperts.guzel.net.tr|ni-spamexperts.guzel.net.tr,104.247.160.49|185.106.211.36,,2026-09-03T03:11:00.715Z,2026-09-03T00:00:02.609Z,2026-09-03T00:00:02.609Z,2026-09-03T00:13:27.447Z
+peterhe-ai.bond,chatgpt-org-uk-1f2f6de7,chatgpt.org.uk,email.chatgpt.org.uk,138.226.240.26,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+riwutz-gmail.randopalma.int.yt,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+samsung-gmail.com,generator-email-27002afd|improvmx-com-c3beaa99,generator.email|improvmx.com,generator.email|mx1.improvmx.com|mx2.improvmx.com,13.36.107.63|13.36.222.39|13.37.195.136|15.236.236.160|15.236.61.92|35.181.18.45|91.196.52.205,2a05:d012:412:e201:1f6e:f6e4:8fd7:4678|2a05:d012:412:e201:88aa:e7b9:7a43:12d7|2a05:d012:412:e202:e81e:cc44:3b53:8a3d|2a05:d012:412:e202:f36:2c1f:1a49:d38a|2a05:d012:412:e203:373a:f51a:4a85:1d25|2a05:d012:412:e203:7e33:3d9c:28d7:ee20,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,2026-09-03T11:00:01.576Z,
+tomvle.com,mymailserver-site-8de3743f,mymailserver.site,mymailserver.site,46.224.181.99,,2026-09-03T03:16:39.864Z,2026-09-03T00:00:02.609Z,2026-09-03T00:00:02.609Z,2026-09-03T00:13:27.785Z
+ukresult.one,hostinger-com-5120ed6e,hostinger.com,mx1.hostinger.com|mx2.hostinger.com,172.65.182.103,2606:4700:90:0:c1f8:f874:2386:b61f,2026-09-03T03:17:04.909Z,2026-09-03T00:00:02.609Z,2026-09-03T00:00:02.609Z,2026-09-03T00:13:28.645Z

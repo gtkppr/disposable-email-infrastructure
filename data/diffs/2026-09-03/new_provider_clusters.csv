@@ -1,0 +1,8 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+99alternatives-com-6d03a9ee,mx_host,99alternatives.com,99alternatives.com,1,1,99alternatives.com,,,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T00:51:22.728Z
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T03:44:03.615Z
+ntlhelp-net-a59b9e1c,mx_host,ntlhelp.net,ntlhelp.net,1,1,mx.ntlhelp.net,45.157.177.136,2a03:4000:4b:190:a41a:abff:fef8:7c13,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T10:23:29.925Z
+tempemaill-com-9d43833e,mx_host,tempemaill.com,tempemaill.com,1,1,eforward1.registrar-servers.com|eforward2.registrar-servers.com|eforward3.registrar-servers.com|eforward4.registrar-servers.com|eforward5.registrar-servers.com|mail.tempemaill.com,162.255.118.51|162.255.118.52|192.99.246.53,,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T13:33:05.296Z
+tempmailfree-org-6aa361f3,mx_host,tempmailfree.org,tempmailfree.org,1,1,tempmailfree.org,104.21.13.210|172.67.133.29,2606:4700:3035::6815:dd2|2606:4700:3035::ac43:851d,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T04:55:24.021Z
+totalkw-com-4e38fa07,mx_host,totalkw.com,totalkw.com,1,1,mail.totalkw.com,,,2026-05-04T13:11:51.542Z,2026-09-03T00:00:02.609Z,2026-09-02T13:55:15.644Z
+vietxf-com-ee8b8208,mx_host,vietxf.com,vietxf.com,1,1,vietxf.com,169.58.188.152,,2026-08-31T00:00:02.496Z,2026-09-03T00:00:02.609Z,2026-08-31T00:26:36.019Z
