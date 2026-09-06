@@ -1,0 +1,16 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+topmailtop-com-add64449,mx_host,topmailtop.com,topmailtop.com,2,2,affnetix.topmailtop.com,82.117.242.61,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+515511-xyz-60ec0c1a,mx_host,515511.xyz,515511.xyz,1,1,mail.515511.xyz,217.142.130.93,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+9we-ru-04045ca0,mx_host,9we.ru,9we.ru,1,1,mail.9we.ru,81.90.180.151,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+chompein-com-9f98bc41,mx_host,chompein.com,chompein.com,1,1,xidns.chompein.com,138.197.239.249,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+d3bb-com-ed3eb246,mx_host,d3bb.com,d3bb.com,1,1,mail.d3bb.com,149.88.84.149,,2026-05-04T13:11:51.542Z,2026-09-06T00:00:02.786Z,2026-09-02T03:25:49.965Z
+daqb-info-a6943522,mx_host,daqb.info,daqb.info,1,1,mail.daqb.info,80.96.59.83,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+ddna6-shop-8a1458c3,mx_host,ddna6.shop,ddna6.shop,1,1,mail.ddna6.shop,31.58.181.165,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+fidhost-com-a93cdb7b,mx_host,fidhost.com,fidhost.com,1,1,mail.fidhost.com,146.190.197.174,,2026-09-06T00:00:02.786Z,2026-09-06T00:00:02.786Z,2026-09-06T00:03:58.927Z
+kampavmedia-com-2ae65c30,mx_host,kampavmedia.com,kampavmedia.com,1,1,mail.kampavmedia.com,45.76.63.120,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+partnersucheseite-de-e09da848,mx_host,partnersucheseite.de,partnersucheseite.de,1,1,partnersucheseite.de,185.177.126.58,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+pdfp-site-e2dc2a5c,mx_host,pdfp.site,pdfp.site,1,1,mail.pdfp.site,64.181.215.249,,2026-05-04T13:11:51.542Z,2026-09-06T00:00:02.786Z,2026-09-02T11:00:01.148Z
+shieldedpost-com-f057ca03,mx_host,shieldedpost.com,shieldedpost.com,1,1,mail.shieldedpost.com,92.255.56.148,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+site-business-ru-fe037c89,mx_host,site-business.ru,site-business.ru,1,1,mail.site-business.ru,185.125.219.69,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+trumpetity-com-25891670,mx_host,trumpetity.com,trumpetity.com,1,1,postmaster.trumpetity.com,138.197.239.249,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
+watchyio-com-f3f98ee2,mx_host,watchyio.com,watchyio.com,1,1,mail.watchyio.com,146.190.197.174,,2026-09-06T11:00:02.126Z,2026-09-06T11:00:02.126Z,
