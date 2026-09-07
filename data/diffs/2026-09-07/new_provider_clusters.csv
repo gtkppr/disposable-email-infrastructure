@@ -1,0 +1,11 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+france-edu-pl-90eb0b40,mx_host,france.edu.pl,france.edu.pl,1,1,mx.france.edu.pl,108.61.160.115,,2026-09-07T11:00:01.591Z,2026-09-07T11:00:01.591Z,
+ibaloch-com-0e40433f,mx_host,ibaloch.com,ibaloch.com,1,1,mx.ibaloch.com,82.163.176.236,,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T08:49:32.754Z
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T09:43:22.124Z
+ocenka-krym-ru-62bb5228,mx_host,ocenka-krym.ru,ocenka-krym.ru,1,1,mail.ocenka-krym.ru,31.184.218.243,,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T10:30:54.532Z
+oderland-com-0788222c,mx_host,oderland.com,oderland.com,1,1,mx1.oderland.com|mx2.oderland.com|mx3.oderland.com|mx4.oderland.com,91.201.60.244|91.201.61.244|91.201.62.34|91.201.63.5,2a02:28f0::16:1|2a02:28f0::17:1|2a02:28f0::8:1|2a02:28f0::9:1,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T11:54:12.886Z
+paris-edu-pl-5972cb5d,mx_host,paris.edu.pl,paris.edu.pl,1,1,mx.paris.edu.pl,108.61.160.115,,2026-09-07T11:00:01.591Z,2026-09-07T11:00:01.591Z,
+singapore-edu-pl-d7662ef2,mx_host,singapore.edu.pl,singapore.edu.pl,1,1,mx.singapore.edu.pl,108.61.160.115,,2026-09-07T11:00:01.591Z,2026-09-07T11:00:01.591Z,
+smarttravellerhq-click-91ff37ee,mx_host,smarttravellerhq.click,smarttravellerhq.click,1,1,mail.suggest.smarttravellerhq.click,77.237.235.246,2a02:c206:2239:9872::1,2026-09-07T11:00:01.591Z,2026-09-07T11:00:01.591Z,
+topot-tech-509a8ea7,mx_host,topot.tech,topot.tech,1,1,mx01.dus.mail.topot.tech|mx02.hel.mail.topot.tech,213.202.219.124|37.143.129.25,,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T12:58:35.682Z
+zain-com-co-df1573a6,mx_host,zain.com.co,zain.com.co,1,1,mail.zain.com.co,198.251.84.129,,2026-05-04T13:11:51.542Z,2026-09-07T00:00:02.179Z,2026-09-02T15:43:46.093Z
