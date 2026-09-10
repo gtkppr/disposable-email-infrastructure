@@ -1,0 +1,15 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+heavenprem-com-1f61b952,mx_host,heavenprem.com,heavenprem.com,3,3,mx.heavenprem.com,172.81.132.232,,2026-07-06T00:00:02.101Z,2026-09-10T00:00:02.050Z,2026-09-08T00:12:11.295Z
+m-onl-d4c1a408,mx_host,m.onl,m.onl,2,2,e.m.onl,178.236.137.137,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T11:13:35.465Z
+mos-kwa-ru-e85fc940,mx_host,mos-kwa.ru,mos-kwa.ru,1,1,mail.mos-kwa.ru,89.108.70.166,2a00:f940:2:4:2::1217,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T09:43:22.124Z
+musicalnr-com-e754906d,mx_host,musicalnr.com,musicalnr.com,1,1,mx1.musicalnr.com|mx2.musicalnr.com,77.74.177.55|77.74.177.61,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T09:51:08.718Z
+my6com-com-d2d7dfb7,mx_host,my6com.com,my6com.com,1,1,mx1.my6com.com|mx2.my6com.com,77.74.177.55|77.74.177.69,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T09:53:58.427Z
+mygeoweb-info-ed810f97,mx_host,mygeoweb.info,mygeoweb.info,1,1,mx1.mygeoweb.info|mx2.mygeoweb.info,77.74.177.47|77.74.177.73,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T09:55:54.880Z
+mymymymail-com-3da79975,mx_host,mymymymail.com,mymymymail.com,1,1,mx1.mymymymail.com|mx2.mymymymail.com,77.74.177.55,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T09:57:29.263Z
+networksfs-com-8f0825ed,mx_host,networksfs.com,networksfs.com,1,1,mx1.networksfs.com|mx2.networksfs.com,77.74.177.47|77.74.177.61,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T10:08:04.974Z
+next-mail-info-34a95193,mx_host,next-mail.info,next-mail.info,1,1,mx1.next-mail.info|mx2.next-mail.info,77.74.177.55|77.74.177.61,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T10:10:57.873Z
+operabrow-com-a900719e,mx_host,operabrow.com,operabrow.com,1,1,mx1.operabrow.com|mx2.operabrow.com,77.74.177.56|77.74.177.73,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T10:42:32.637Z
+otvetinavoprosi-com-d687b873,mx_host,otvetinavoprosi.com,otvetinavoprosi.com,1,1,mx1.otvetinavoprosi.com|mx2.otvetinavoprosi.com,77.74.177.69|77.74.177.73,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T10:46:40.404Z
+pezhub-org-7ed61881,mx_host,pezhub.org,pezhub.org,1,1,mx1.pezhub.org|mx2.pezhub.org,77.74.177.69,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T11:05:20.088Z
+post123-site-d4afbe32,mx_host,post123.site,post123.site,1,1,mx1.post123.site|mx2.post123.site,77.74.177.47|77.74.177.61,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T11:17:02.962Z
+ppetw-com-3ba57782,mx_host,ppetw.com,ppetw.com,1,1,mx1.ppetw.com|mx2.ppetw.com,77.74.177.55|77.74.177.69,,2026-05-04T13:11:51.542Z,2026-09-10T00:00:02.050Z,2026-09-02T11:18:21.125Z
