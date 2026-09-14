@@ -1,0 +1,10 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+cloud-cd-1c244140,mx_host,cloud.cd,cloud.cd,1,1,mail.host-301.cloud.cd,,,2026-05-04T13:11:51.542Z,2026-09-14T00:00:02.520Z,2026-09-10T05:54:46.611Z
+emailbox-click-32d1b689,mx_host,emailbox.click,emailbox.click,1,1,mail.emailbox.click,13.140.190.176,,2026-05-04T13:11:51.542Z,2026-09-14T00:00:02.520Z,2026-09-10T04:10:47.197Z
+glorzomail-com-cefead2c,mx_host,glorzomail.com,glorzomail.com,1,1,mail.glorzomail.com,5.230.124.217,,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,
+jonathanupton-com-03803348,mx_host,jonathanupton.com,jonathanupton.com,1,1,mail.jonathanupton.com,68.66.226.77,,2026-09-14T00:00:02.520Z,2026-09-14T00:00:02.520Z,2026-09-14T00:04:13.298Z
+maikwieland-de-bb7fa7e5,mx_host,maikwieland.de,maikwieland.de,1,1,mail.maikwieland.de|mxf9a3.netcup.net,46.38.249.163,2a03:4000:0:276:b4c4:95ff:fe50:76a3,2026-09-14T00:00:02.520Z,2026-09-14T00:00:02.520Z,2026-09-14T00:04:13.615Z
+matrixrom-ro-c2d19478,mx_host,matrixrom.ro,matrixrom.ro,1,1,mx.matrixrom.ro|mxbackup1.junkemailfilter.com|mxbackup2.junkemailfilter.com,184.105.182.140|184.105.182.210|184.105.182.211|184.105.182.212|184.105.182.220|184.105.182.221|184.105.182.222|86.120.117.54,,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,
+microversemail-com-ee4bdf8c,mx_host,microversemail.com,microversemail.com,1,1,mail.microversemail.com,5.230.124.217,,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,
+nixxmail-com-c73adfc6,mx_host,nixxmail.com,nixxmail.com,1,1,mail.nixxmail.com,173.249.7.189,,2026-08-06T00:00:01.467Z,2026-09-14T00:00:02.520Z,2026-09-07T00:04:10.823Z
+qd-je-61e81293,mx_host,qd.je,qd.je,1,1,mx.trashmailr.com.digidaw.qd.je,,,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,
