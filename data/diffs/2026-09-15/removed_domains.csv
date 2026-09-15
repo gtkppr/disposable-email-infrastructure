@@ -1,0 +1,7 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+beconfidential.org,junkemailfilter-com-58fad2ae|junkemailfilter-net-2ce65a77|junkemailfilter-org-45512977,junkemailfilter.com|junkemailfilter.net|junkemailfilter.org,mx.junkemailfilter.net|mx.junkemailfilter.org|plato.junkemailfilter.com,184.105.182.210|184.105.182.211|184.105.182.212|184.105.182.220|184.105.182.221|184.105.182.222|184.105.182.40|184.105.182.41|184.105.182.63,,2026-09-14T03:02:34.920Z,2026-08-16T11:00:02.211Z,2026-09-14T00:00:02.520Z,2026-09-10T09:25:26.913Z
+fake.com,,,,,,,,,
+ilfake.com,,,,,,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,2026-09-14T11:00:01.968Z,
+ke.com,,,,,,,,,
+kkweb.io.vn,yopmail-com-321e7ca0,yopmail.com,smtp.yopmail.com,87.98.164.155,,2026-09-14T03:09:34.051Z,2026-08-16T00:00:01.657Z,2026-09-14T00:00:02.520Z,2026-09-09T00:18:56.081Z
+licheopto.com,263-net-676f1020,263.net,mx.263.net|mxw.263.net,107.150.117.76|128.1.42.104|128.14.224.70,,2026-09-14T03:09:58.763Z,2026-08-16T00:00:01.657Z,2026-09-14T00:00:02.520Z,2026-09-09T00:18:57.366Z
