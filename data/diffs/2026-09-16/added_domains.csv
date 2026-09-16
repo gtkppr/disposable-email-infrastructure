@@ -1,0 +1,11 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+007jlphp.com,,,route1.mx.cloudflare.net|route2.mx.cloudflare.net|route3.mx.cloudflare.net,162.159.205.11|162.159.205.12|162.159.205.13|162.159.205.17|162.159.205.18|162.159.205.19|162.159.205.23|162.159.205.24|162.159.205.25,2606:4700:f5::10|2606:4700:f5::11|2606:4700:f5::12|2606:4700:f5::13|2606:4700:f5::b|2606:4700:f5::c|2606:4700:f5::d|2606:4700:f5::e|2606:4700:f5::f,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+ailfake.com,,,,,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+bxiql.anonbox.net,anonbox-net-b4af7437,anonbox.net,anonbox.net,185.106.84.103,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+chelo.lat,,,alt1.aspmx.l.google.com|alt2.aspmx.l.google.com|alt3.aspmx.l.google.com|alt4.aspmx.l.google.com|aspmx.l.google.com,142.250.147.26|172.253.152.26|192.178.158.27|192.178.211.26|66.102.1.26,2404:6800:4000:1025::1b|2404:6800:4013:813::1a|2a00:1450:4001:c21::1b|2a00:1450:4010:c22::1a|2a00:1450:4025:c01::1b,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+lfake.com,,,,,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+manhmmonew.online,tinyhost-shop-cb436a3f,tinyhost.shop,tinyhost.shop,144.91.107.45,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+moon.lockroom.cfd,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+mypochtanew.top,mypochtanew-top-819e2303,mypochtanew.top,mail.mypochtanew.top,45.38.170.191,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+semester.bond,chatgpt-org-uk-1f2f6de7,chatgpt.org.uk,email.chatgpt.org.uk,138.226.240.26,,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,2026-09-16T11:00:01.921Z,
+ygwpr.com,ygwpr-com-98045295,ygwpr.com,mx.ygwpr.com,143.110.211.229,,2026-09-16T03:19:13.981Z,2026-09-16T00:00:02.325Z,2026-09-16T00:00:02.325Z,2026-09-16T00:26:05.322Z
