@@ -1,0 +1,7 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+billieholidayhub-click-78757604,mx_host,billieholidayhub.click,billieholidayhub.click,1,1,mail.quick.billieholidayhub.click,77.237.235.246,2a02:c206:2239:9872::1,2026-09-20T11:00:02.517Z,2026-09-20T11:00:02.517Z,
+boscharena-dev-385c2203,mx_host,boscharena.dev,boscharena.dev,1,1,mail.boscharena.dev,145.241.217.37,,2026-06-29T11:00:02.097Z,2026-09-20T00:00:01.582Z,2026-09-18T09:42:05.935Z
+cltiscy-com-f06b7f29,mx_host,cltiscy.com,cltiscy.com,1,1,post.cltiscy.com,162.243.128.53,,2026-09-20T11:00:02.517Z,2026-09-20T11:00:02.517Z,
+dudleyplumbingfix-com-9cb02af8,mx_host,dudleyplumbingfix.com,dudleyplumbingfix.com,1,1,mail.dudleyplumbingfix.com,65.86.32.25,,2026-09-20T11:00:02.517Z,2026-09-20T11:00:02.517Z,
+facct-ru-2128b69b,mx_host,facct.ru,facct.ru,1,1,mx1.atmosphere.facct.ru|mx2.atmosphere.facct.ru,82.202.245.76|82.202.245.77|94.26.244.116|94.26.244.117,,2026-09-20T11:00:02.517Z,2026-09-20T11:00:02.517Z,
+tempmailx-xyz-125c17be,mx_host,tempmailx.xyz,tempmailx.xyz,1,1,mail.tempmailx.xyz,,,2026-08-02T00:00:01.744Z,2026-09-20T00:00:01.582Z,2026-09-19T00:04:00.856Z
