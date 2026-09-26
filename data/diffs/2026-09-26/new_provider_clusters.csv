@@ -1,0 +1,9 @@
+slug,type,key,label,domain_count,source_domain_count,mx_hosts,mx_ipv4,mx_ipv6,first_seen_at,last_seen_at,last_enriched_at
+1sec-email-a5a43e9f,mx_host,1sec.email,1sec.email,1,1,mx.1sec.email,,,2026-07-06T00:00:02.101Z,2026-09-26T00:00:02.775Z,2026-09-24T00:02:03.601Z
+aonwin-com-c682c8f4,mx_host,aonwin.com,aonwin.com,1,1,mail.aonwin.com,38.54.119.91,,2026-08-06T00:00:01.467Z,2026-09-26T00:00:02.775Z,2026-09-23T00:06:52.199Z
+baserelief-ru-623f1d08,mx_host,baserelief.ru,baserelief.ru,1,1,mail.baserelief.ru,81.90.180.107,2a00:ab00:1103:7:51::1,2026-05-04T13:11:51.542Z,2026-09-26T00:00:02.775Z,2026-09-18T01:49:15.439Z
+clonejsm-com-0f5e6a03,mx_host,clonejsm.com,clonejsm.com,1,1,mail.clonejsm.com,97.64.81.152,,2026-09-26T00:00:02.775Z,2026-09-26T00:00:02.775Z,
+diplom-voronesh-ru-e3dbd729,mx_host,diplom-voronesh.ru,diplom-voronesh.ru,1,1,mail.diplom-voronesh.ru,194.58.111.77,,2026-05-04T13:11:51.542Z,2026-09-26T00:00:02.775Z,2026-09-18T03:31:15.133Z
+eqfrntue-com-57d34cab,mx_host,eqfrntue.com,eqfrntue.com,1,1,bound.eqfrntue.com,198.199.95.144,,2026-09-26T11:00:01.704Z,2026-09-26T11:00:01.704Z,
+kasik1250-shop-1b39faf3,mx_host,kasik1250.shop,kasik1250.shop,1,1,mail.kasik1250.shop,194.110.247.75,,2026-05-04T13:11:51.542Z,2026-09-26T00:00:02.775Z,2026-09-18T06:50:52.414Z
+tempmailx-xyz-125c17be,mx_host,tempmailx.xyz,tempmailx.xyz,1,1,mail.tempmailx.xyz,,,2026-08-02T00:00:01.744Z,2026-09-26T00:00:02.775Z,2026-09-19T00:04:00.856Z
