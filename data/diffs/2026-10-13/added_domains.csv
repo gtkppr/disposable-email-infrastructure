@@ -1,0 +1,14 @@
+domain,provider_slugs,provider_labels,mx_hosts,mx_ipv4,mx_ipv6,mx_resolved_at,first_seen_at,last_seen_at,last_enriched_at
+7u7sl.anonbox.net,anonbox-net-b4af7437,anonbox.net,anonbox.net,185.106.84.103,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+betavertex.com,lambdaecho-com-7eca9974,lambdaecho.com,lambdaecho.com,80.78.27.213,,2026-10-13T03:03:04.598Z,2026-10-13T00:00:02.035Z,2026-10-13T00:00:02.035Z,2026-10-13T00:22:46.769Z
+bokkor1.cyou,bokkor1-cyou-8e0712ac,bokkor1.cyou,mail.bokkor1.cyou,2.31.8.249,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+bydey.lat,,,alt1.aspmx.l.google.com|alt2.aspmx.l.google.com|alt3.aspmx.l.google.com|alt4.aspmx.l.google.com|aspmx.l.google.com,172.253.152.27|192.178.158.27|192.178.213.27|192.179.20.27|64.233.184.27,2404:6800:4000:1027::1b|2404:6800:4013:813::1a|2a00:1450:400c:c0a::1b|2a00:1450:4010:c22::1b|2a00:1450:4013:c1e::1b,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+dravox.lat,,,,,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+gldeagle.com,263-net-676f1020,263.net,mx.263.net|mxw.263.net,107.150.117.76|128.1.42.104|128.14.224.70,,2026-10-13T03:08:16.461Z,2026-10-13T00:00:02.035Z,2026-10-13T00:00:02.035Z,2026-10-13T00:22:47.416Z
+lol.poinas.sbs,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+minhminclone.click,emailfake-com-12aa8573,emailfake.com,emailfake.com,91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+nightgirls.site,generator-email-27002afd|mailgun-org-84f0dca4,generator.email|mailgun.org,generator.email|mxa.mailgun.org|mxb.mailgun.org,34.36.182.139|91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+rv1791873056.wopdaz230.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+rvf6obcr.wopdaz230.biz.id,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+shock.capcutboy.biz.id,generator-email-27002afd|emailqu-com-eacc505e,generator.email|emailqu.com,emailqu.com|generator.email,178.83.181.64|91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
+zzq.pideo.sbs,generator-email-27002afd,generator.email,generator.email,91.196.52.205,,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,2026-10-13T11:00:01.722Z,
